@@ -1,0 +1,1001 @@
+ID_Cliente,Nome_Cliente,Segmento,Porte,Data_Contrato,Data_Servico,Tipo_Servico,Valor,Status_Pagamento,Responsavel,NPS,Custo_Operacional,Margem_Lucro
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2023-03-21,Balanço Patrimonial,930.07,Pago,Pedro Martins,9,392.32,57.82
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2023-03-31,Consultoria Tributária,1415.32,Atrasado,José Pereira,10,761.61,46.19
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2023-05-05,Imposto de Renda PJ,15338.35,Pendente,Carlos Oliveira,9,5635.19,63.26
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2023-12-06,Folha de Pagamento,479.91,Pendente,Maria Santos,8,247.4,48.45
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2024-09-02,Regularização Fiscal,9025.63,Atrasado,Carlos Oliveira,10,3300.24,63.43
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2023-01-13,Planejamento Tributário,1083.6,Atrasado,José Pereira,9,633.92,41.5
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2025-05-18,Regularização Fiscal,6495.99,Atrasado,Fernanda Lima,8,3585.52,44.8
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2024-11-14,Demonstrativo de Resultado,1290.98,Atrasado,Carlos Oliveira,9,733.16,43.21
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2022-06-02,Declaração IR,13215.3,Atrasado,Roberto Alves,10,4211.45,68.13
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2022-04-07,Demonstrativo de Resultado,15716.8,Atrasado,Carlos Oliveira,9,6123.01,61.04
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2024-04-01,Balanço Patrimonial,13540.66,Atrasado,Carlos Oliveira,7,5641.81,58.33
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2024-10-23,Demonstrativo de Resultado,1126.48,Atrasado,Roberto Alves,10,537.97,52.24
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2021-06-23,Contabilidade Fiscal,1332.44,Atrasado,Maria Santos,9,534.64,59.88
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2021-11-10,Demonstrativo de Resultado,14596.82,Atrasado,Carlos Oliveira,9,5360.93,63.27
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2022-02-25,Demonstrativo de Resultado,3089.23,Atrasado,Fernanda Lima,7,1449.44,53.08
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2024-04-08,Escrituração Contábil,3055.34,Pendente,Fernanda Lima,8,1800.87,41.06
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2022-09-07,Consultoria Tributária,9254.14,Atrasado,Roberto Alves,8,3059.14,66.94
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2022-05-22,Consultoria Contábil,19699.8,Atrasado,Fernanda Lima,9,6317.47,67.93
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2024-10-11,Folha de Pagamento,1550.31,Pendente,José Pereira,8,667.64,56.94
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2025-05-11,Imposto de Renda PJ,14486.45,Pendente,Roberto Alves,9,5746.65,60.33
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2022-02-27,Consultoria Tributária,17747.93,Atrasado,José Pereira,9,6292.56,64.54
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2023-12-17,Demonstrativo de Resultado,3360.28,Atrasado,Fernanda Lima,8,1094.39,67.43
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2023-04-12,Planejamento Tributário,5388.88,Atrasado,Fernanda Lima,9,1974.91,63.35
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2023-12-11,Consultoria Tributária,2608.55,Pago,Roberto Alves,9,1057.88,59.45
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2022-09-26,Consultoria Tributária,3928.05,Pendente,Ana Silva,8,1404.13,64.25
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-03-22,Consultoria Tributária,17643.01,Atrasado,Carlos Oliveira,8,7203.01,59.17
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2023-11-27,Escrituração Contábil,13410.25,Atrasado,José Pereira,10,4435.79,66.92
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2023-10-16,Consultoria Tributária,11213.27,Pago,Carlos Oliveira,10,3747.77,66.58
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2024-03-04,Planejamento Tributário,6869.51,Atrasado,Fernanda Lima,8,2304.96,66.45
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2024-11-21,Análise Financeira,2177.34,Pago,Roberto Alves,9,1215.06,44.2
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-07-30,Análise Financeira,6674.64,Atrasado,Pedro Martins,7,2316.88,65.29
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-09-10,Contabilidade Fiscal,11822.14,Atrasado,Fernanda Lima,9,6039.89,48.91
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2021-08-13,Imposto de Renda PJ,3981.37,Atrasado,Ana Silva,7,1844.84,53.66
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2024-03-28,Consultoria Tributária,3011.4,Atrasado,José Pereira,9,1300.16,56.83
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2024-03-14,Consultoria Tributária,17986.15,Atrasado,Roberto Alves,10,9359.28,47.96
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2023-04-10,Folha de Pagamento,517.26,Pago,Maria Santos,9,244.6,52.71
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2024-03-19,Planejamento Tributário,2670.47,Pendente,Roberto Alves,7,1177.69,55.9
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2024-01-08,Auditoria,9500.68,Pendente,Carlos Oliveira,7,4146.55,56.36
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2022-02-02,Auditoria,9196.46,Pendente,José Pereira,10,3899.06,57.6
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2024-03-20,Auditoria,17151.22,Atrasado,Carlos Oliveira,9,7399.63,56.86
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2022-11-06,Contabilidade Fiscal,566.1,Atrasado,José Pereira,10,185.66,67.2
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2023-10-06,Contabilidade Fiscal,2359.43,Atrasado,Fernanda Lima,10,1401.67,40.59
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2024-03-26,Balanço Patrimonial,14995.91,Atrasado,José Pereira,10,6027.79,59.8
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-06-07,Consultoria Contábil,6367.41,Pendente,Roberto Alves,10,2939.03,53.84
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2024-09-06,Balanço Patrimonial,4372.06,Pago,Pedro Martins,8,2061.6,52.85
+Cliente_30,Escola Idiomas,Educação,Pequeno,2021-08-24,2023-12-13,Folha de Pagamento,763.24,Pago,Juliana Costa,8,342.39,55.14
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2023-12-30,Balanço Patrimonial,8343.33,Pendente,Juliana Costa,7,4311.28,48.33
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2024-12-02,Declaração IR,5342.01,Atrasado,Carlos Oliveira,9,2968.57,44.43
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2022-07-17,Auditoria,2904.03,Atrasado,José Pereira,9,1740.18,40.08
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2021-12-07,Regularização Fiscal,3077.52,Atrasado,Ana Silva,7,965.72,68.62
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2022-03-20,Auditoria,4937.68,Atrasado,Carlos Oliveira,7,2384.15,51.72
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2023-10-11,Imposto de Renda PJ,8933.69,Atrasado,Carlos Oliveira,7,5089.28,43.03
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2025-05-23,Consultoria Tributária,16427.57,Pago,Roberto Alves,10,8330.32,49.29
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2022-11-29,Abertura de Empresa,6677.72,Atrasado,Ana Silva,9,2047.27,69.34
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-07-18,Consultoria Tributária,1009.18,Pago,Maria Santos,10,554.9,45.01
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2024-05-05,Análise Financeira,2588.75,Pendente,Pedro Martins,8,1264.54,51.15
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2025-01-27,Folha de Pagamento,2781.5,Atrasado,Maria Santos,10,981.01,64.73
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2025-04-28,Balanço Patrimonial,2251.77,Pendente,Pedro Martins,10,1329.03,40.98
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2025-01-18,Consultoria Contábil,3265.48,Pago,Juliana Costa,10,1927.22,40.98
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-06-14,Contabilidade Fiscal,2023.29,Atrasado,Ana Silva,10,1106.18,45.33
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2022-08-04,Imposto de Renda PJ,2940.78,Pago,Juliana Costa,8,1453.61,50.57
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2024-04-30,Escrituração Contábil,934.53,Atrasado,Roberto Alves,7,346.19,62.96
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2021-03-03,Regularização Fiscal,2185.79,Pendente,José Pereira,8,1236.34,43.44
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2023-06-01,Consultoria Contábil,4384.52,Atrasado,Juliana Costa,8,2440.58,44.34
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2024-04-16,Auditoria,9666.04,Atrasado,José Pereira,10,3165.65,67.25
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2024-10-06,Imposto de Renda PJ,2741.5,Atrasado,Fernanda Lima,7,1504.93,45.11
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-01-17,Análise Financeira,6854.71,Pago,Pedro Martins,7,2626.6,61.68
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2022-01-05,Balanço Patrimonial,1030.77,Pendente,Ana Silva,8,491.32,52.33
+Cliente_3,Empresa Telemarketing,Alimentação,Pequeno,2020-03-02,2021-02-21,Consultoria Tributária,1092.65,Pendente,Carlos Oliveira,7,475.96,56.44
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2024-02-02,Folha de Pagamento,8903.4,Atrasado,Fernanda Lima,10,4934.17,44.58
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2024-08-23,Contabilidade Fiscal,4332.61,Atrasado,Pedro Martins,9,2111.26,51.27
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2024-04-03,Escrituração Contábil,9189.15,Atrasado,Roberto Alves,7,5107.68,44.42
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2025-04-17,Balanço Patrimonial,3251.87,Atrasado,Juliana Costa,10,1687.34,48.11
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2023-01-26,Auditoria,6774.18,Pendente,José Pereira,7,2909.94,57.04
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2023-07-08,Demonstrativo de Resultado,774.12,Atrasado,Ana Silva,10,433.84,43.96
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2021-04-15,Consultoria Tributária,5182.97,Atrasado,Fernanda Lima,7,2099.28,59.5
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-06-16,Contabilidade Fiscal,3979.25,Pago,Ana Silva,7,1920.78,51.73
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2025-03-19,Consultoria Tributária,1060.64,Atrasado,Maria Santos,8,498.39,53.01
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2021-12-13,Declaração IR,1945.53,Atrasado,Pedro Martins,8,799.64,58.9
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2022-10-26,Demonstrativo de Resultado,3880.46,Atrasado,Fernanda Lima,7,1480.9,61.84
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-09-14,Planejamento Tributário,2686.78,Atrasado,Maria Santos,10,1230.76,54.19
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2023-11-22,Abertura de Empresa,5470.7,Atrasado,Roberto Alves,9,2116.25,61.32
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2020-06-10,Planejamento Tributário,17405.18,Pendente,Maria Santos,9,5597.9,67.84
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2022-12-26,Regularização Fiscal,23506.72,Pendente,Carlos Oliveira,10,9093.68,61.31
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2021-09-04,Auditoria,1573.09,Atrasado,Pedro Martins,7,586.75,62.7
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2023-09-22,Balanço Patrimonial,15293.61,Atrasado,Pedro Martins,7,7022.54,54.08
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2025-04-21,Demonstrativo de Resultado,15422.57,Atrasado,Carlos Oliveira,8,5429.51,64.8
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2024-08-18,Demonstrativo de Resultado,2781.31,Pendente,José Pereira,10,1402.73,49.57
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-08-15,Consultoria Contábil,4395.13,Pendente,Carlos Oliveira,7,1782.59,59.44
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2023-11-16,Planejamento Tributário,3775.14,Pendente,Carlos Oliveira,10,1656.58,56.12
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2025-04-28,Escrituração Contábil,3105.82,Atrasado,Pedro Martins,8,1824.1,41.27
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2023-05-28,Demonstrativo de Resultado,13369.62,Atrasado,Pedro Martins,10,7985.62,40.27
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2022-12-25,Análise Financeira,1159.44,Atrasado,Pedro Martins,9,370.76,68.02
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2023-07-29,Imposto de Renda PJ,4216.76,Atrasado,José Pereira,7,2002.21,52.52
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2023-03-31,Consultoria Tributária,3579.55,Pago,Ana Silva,9,1674.07,53.23
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2024-09-28,Consultoria Contábil,1140.7,Pago,José Pereira,7,563.29,50.62
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2024-02-23,Auditoria,5667.92,Atrasado,Pedro Martins,8,1963.84,65.35
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2025-04-28,Demonstrativo de Resultado,5107.92,Atrasado,Juliana Costa,8,2447.58,52.08
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2021-04-12,Declaração IR,4829.72,Atrasado,José Pereira,8,2853.77,40.91
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2024-01-27,Demonstrativo de Resultado,1717.06,Atrasado,Juliana Costa,8,704.6,58.96
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2023-01-26,Planejamento Tributário,3091.77,Atrasado,Maria Santos,8,1737.27,43.81
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2024-08-07,Consultoria Contábil,7227.24,Atrasado,Fernanda Lima,8,2759.63,61.82
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2022-08-02,Consultoria Contábil,10724.71,Atrasado,José Pereira,7,4492.97,58.11
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2023-04-22,Regularização Fiscal,5769.77,Atrasado,Juliana Costa,8,1969.11,65.87
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2025-01-08,Escrituração Contábil,1608.26,Pago,Pedro Martins,7,605.96,62.32
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2023-06-12,Escrituração Contábil,2788.37,Atrasado,José Pereira,10,889.05,68.12
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2024-12-01,Balanço Patrimonial,633.43,Atrasado,Ana Silva,8,298.47,52.88
+Cliente_24,SPA Relaxamento,Alimentação,Grande,2022-03-28,2022-09-19,Balanço Patrimonial,13358.32,Pago,Roberto Alves,7,5572.24,58.29
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2022-10-17,Imposto de Renda PJ,16963.33,Atrasado,Maria Santos,7,9015.17,46.85
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-12-26,Auditoria,17249.91,Atrasado,Carlos Oliveira,10,8444.19,51.05
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2024-01-13,Escrituração Contábil,6489.45,Atrasado,José Pereira,9,2950.2,54.54
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2024-08-10,Consultoria Tributária,1071.22,Atrasado,Carlos Oliveira,9,361.37,66.27
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2024-06-07,Regularização Fiscal,8717.07,Atrasado,Juliana Costa,9,4710.22,45.97
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2024-10-24,Contabilidade Fiscal,6523.9,Atrasado,Roberto Alves,9,2557.03,60.81
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2024-04-04,Declaração IR,1977.87,Pendente,Maria Santos,9,972.8,50.82
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2020-12-28,Imposto de Renda PJ,4481.13,Pago,Carlos Oliveira,8,2485.24,44.54
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2023-11-06,Folha de Pagamento,8908.73,Pago,Fernanda Lima,7,4289.81,51.85
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2023-11-30,Auditoria,21604.99,Atrasado,Fernanda Lima,8,12707.1,41.18
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2023-11-23,Planejamento Tributário,12382.94,Atrasado,Ana Silva,9,6292.94,49.18
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2022-06-09,Contabilidade Fiscal,7013.61,Pago,Juliana Costa,9,3509.27,49.96
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2020-10-01,Balanço Patrimonial,6333.59,Pago,Fernanda Lima,8,3408.16,46.19
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2023-01-07,Contabilidade Fiscal,7358.55,Atrasado,José Pereira,10,3981.7,45.89
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2021-08-11,Análise Financeira,3668.12,Atrasado,Pedro Martins,10,2006.47,45.3
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2023-05-11,Auditoria,6491.5,Pendente,Carlos Oliveira,8,3442.67,46.97
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2023-05-05,Balanço Patrimonial,2257.54,Atrasado,Pedro Martins,8,911.61,59.62
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2024-07-23,Consultoria Contábil,885.6,Atrasado,Fernanda Lima,7,399.2,54.92
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2024-02-13,Análise Financeira,6495.69,Atrasado,Fernanda Lima,7,2106.99,67.56
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2024-07-25,Imposto de Renda PJ,1035.35,Atrasado,José Pereira,9,460.61,55.51
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2024-06-02,Consultoria Tributária,2088.72,Atrasado,Ana Silva,8,822.49,60.62
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2024-01-11,Escrituração Contábil,8510.12,Atrasado,Roberto Alves,8,3743.96,56.01
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2022-11-04,Abertura de Empresa,1144.69,Pendente,José Pereira,8,622.76,45.6
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2024-08-22,Auditoria,1559.09,Atrasado,Maria Santos,7,909.84,41.64
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-12-19,Abertura de Empresa,4583.34,Atrasado,Roberto Alves,10,1767.91,61.43
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2025-04-28,Contabilidade Fiscal,12922.85,Atrasado,Carlos Oliveira,8,5282.31,59.12
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2023-11-27,Regularização Fiscal,2344.78,Atrasado,Pedro Martins,7,980.52,58.18
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-12-23,Auditoria,3264.95,Atrasado,Carlos Oliveira,9,1766.96,45.88
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2025-01-16,Declaração IR,1729.51,Pendente,Fernanda Lima,9,826.91,52.19
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2025-02-10,Balanço Patrimonial,4331.82,Atrasado,Roberto Alves,10,2058.09,52.49
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2024-11-09,Imposto de Renda PJ,5064.49,Atrasado,Fernanda Lima,7,2405.92,52.49
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2023-09-27,Imposto de Renda PJ,6442.77,Atrasado,Fernanda Lima,7,2301.58,64.28
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2024-04-22,Regularização Fiscal,7302.2,Pago,Fernanda Lima,7,3736.77,48.83
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2024-05-06,Balanço Patrimonial,1236.02,Pendente,Fernanda Lima,9,573.37,53.61
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2025-03-17,Imposto de Renda PJ,15038.81,Atrasado,Fernanda Lima,9,7990.91,46.86
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2021-07-20,Escrituração Contábil,2886.39,Atrasado,Fernanda Lima,7,1362.5,52.8
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2024-01-31,Regularização Fiscal,2813.78,Pendente,Carlos Oliveira,9,1624.12,42.28
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2023-11-09,Escrituração Contábil,2548.72,Atrasado,Juliana Costa,8,950.0,62.73
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2023-12-25,Abertura de Empresa,2280.38,Pendente,Roberto Alves,7,1343.95,41.06
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2023-06-22,Imposto de Renda PJ,6099.22,Pago,Pedro Martins,9,2352.01,61.44
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2024-11-18,Contabilidade Fiscal,2885.61,Pendente,Carlos Oliveira,10,1629.43,43.53
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2023-04-01,Consultoria Contábil,23540.84,Pago,Fernanda Lima,7,7127.7,69.72
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2025-05-29,Contabilidade Fiscal,3090.06,Pago,Carlos Oliveira,8,1715.97,44.47
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2021-11-13,Abertura de Empresa,19014.46,Atrasado,Roberto Alves,9,10215.14,46.28
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-04-04,Declaração IR,4631.46,Atrasado,Carlos Oliveira,7,1646.18,64.46
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2025-03-12,Auditoria,17483.24,Atrasado,José Pereira,7,6616.81,62.15
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2024-12-12,Abertura de Empresa,3465.2,Pendente,Carlos Oliveira,9,1757.16,49.29
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2023-05-20,Auditoria,2646.62,Atrasado,Roberto Alves,10,1351.32,48.94
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2024-10-17,Balanço Patrimonial,16995.85,Pendente,Maria Santos,10,7791.78,54.15
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2021-07-02,Análise Financeira,6750.52,Atrasado,Carlos Oliveira,10,2260.56,66.51
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2024-05-17,Análise Financeira,13783.28,Atrasado,Juliana Costa,7,6445.6,53.24
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2023-02-13,Escrituração Contábil,4271.72,Atrasado,Fernanda Lima,7,1975.03,53.76
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2020-12-16,Planejamento Tributário,6456.48,Pago,Carlos Oliveira,10,2662.25,58.77
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-10-25,Consultoria Contábil,9511.71,Atrasado,Carlos Oliveira,9,3192.03,66.44
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2022-08-12,Balanço Patrimonial,944.35,Pago,José Pereira,10,474.11,49.8
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2024-05-01,Balanço Patrimonial,1293.74,Pendente,Carlos Oliveira,7,400.63,69.03
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-09-04,Análise Financeira,2483.43,Atrasado,Maria Santos,7,927.36,62.66
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2023-10-24,Planejamento Tributário,23612.29,Atrasado,Ana Silva,9,11174.34,52.68
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2024-06-20,Consultoria Contábil,9958.08,Atrasado,Fernanda Lima,7,4650.58,53.3
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2022-06-17,Imposto de Renda PJ,7418.13,Atrasado,Pedro Martins,9,3775.03,49.11
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2023-07-03,Consultoria Tributária,8210.0,Pendente,Carlos Oliveira,10,4716.01,42.56
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-08-01,Regularização Fiscal,3841.57,Pendente,Ana Silva,9,1259.03,67.23
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2022-01-25,Folha de Pagamento,3457.19,Pendente,Fernanda Lima,8,1534.36,55.62
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2022-02-04,Folha de Pagamento,686.47,Pendente,Ana Silva,8,287.62,58.1
+Cliente_31,Clínica Odontológica Sorriso,Construção,Pequeno,2021-06-23,2024-07-27,Auditoria,3232.91,Atrasado,Maria Santos,10,1421.84,56.02
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2023-08-19,Demonstrativo de Resultado,5127.48,Atrasado,Fernanda Lima,8,1563.19,69.51
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2024-02-28,Análise Financeira,4367.63,Atrasado,Pedro Martins,9,1647.46,62.28
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2025-05-16,Imposto de Renda PJ,16748.56,Atrasado,Juliana Costa,8,9631.59,42.49
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2022-04-14,Balanço Patrimonial,740.04,Atrasado,Carlos Oliveira,8,237.1,67.96
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2020-06-02,Abertura de Empresa,4835.47,Atrasado,José Pereira,10,1473.46,69.53
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2023-07-03,Regularização Fiscal,964.28,Pendente,José Pereira,10,522.5,45.81
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2023-06-12,Contabilidade Fiscal,10643.33,Pendente,Fernanda Lima,7,4384.15,58.81
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2024-02-19,Análise Financeira,1474.49,Pendente,Pedro Martins,7,483.71,67.19
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-06-01,Balanço Patrimonial,14331.88,Atrasado,Carlos Oliveira,9,6732.5,53.02
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2023-05-29,Folha de Pagamento,3813.32,Pendente,José Pereira,9,2172.8,43.02
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2023-10-23,Declaração IR,3593.63,Pendente,Carlos Oliveira,10,2079.5,42.13
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-04-27,Análise Financeira,15354.74,Pendente,José Pereira,8,8247.79,46.29
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2023-01-07,Balanço Patrimonial,1990.95,Atrasado,Roberto Alves,10,1176.01,40.93
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2020-04-13,Imposto de Renda PJ,6767.89,Pago,José Pereira,10,2407.48,64.43
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2024-11-19,Regularização Fiscal,23007.47,Atrasado,Roberto Alves,8,12007.52,47.81
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2022-09-12,Contabilidade Fiscal,5081.28,Atrasado,José Pereira,10,2208.59,56.53
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-11-11,Regularização Fiscal,3931.82,Pendente,Ana Silva,7,1523.79,61.24
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2022-05-17,Escrituração Contábil,13495.02,Atrasado,Carlos Oliveira,8,5137.23,61.93
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2023-02-01,Declaração IR,711.63,Atrasado,José Pereira,8,367.39,48.37
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2024-11-28,Análise Financeira,1383.26,Atrasado,Ana Silva,9,597.66,56.79
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2024-07-28,Análise Financeira,1059.29,Pendente,Juliana Costa,9,410.41,61.26
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2025-05-01,Análise Financeira,2829.78,Pendente,Roberto Alves,8,1351.7,52.23
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2022-12-18,Imposto de Renda PJ,2516.83,Pendente,Carlos Oliveira,7,1373.41,45.43
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2024-12-21,Planejamento Tributário,5143.9,Atrasado,Carlos Oliveira,10,3071.99,40.28
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2024-04-21,Regularização Fiscal,2176.48,Pendente,Carlos Oliveira,7,724.36,66.72
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2025-05-11,Imposto de Renda PJ,8357.19,Pago,José Pereira,10,4931.1,41.0
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2024-11-10,Regularização Fiscal,1175.46,Atrasado,Ana Silva,8,509.84,56.63
+Cliente_51,Sorveteria Gelada,Tecnologia,Pequeno,2023-01-03,2024-04-21,Demonstrativo de Resultado,1837.63,Atrasado,Pedro Martins,7,615.28,66.52
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2023-03-25,Auditoria,14089.07,Atrasado,Roberto Alves,10,5574.66,60.43
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2023-12-28,Demonstrativo de Resultado,8549.31,Pendente,José Pereira,8,3888.21,54.52
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2021-10-12,Auditoria,9565.6,Atrasado,Pedro Martins,10,4004.87,58.13
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-08-02,Abertura de Empresa,7135.14,Pendente,Carlos Oliveira,7,3376.38,52.68
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2021-06-16,Auditoria,2121.41,Atrasado,José Pereira,10,1025.47,51.66
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2022-02-12,Auditoria,13917.52,Pendente,Pedro Martins,7,6981.49,49.84
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2021-05-03,Abertura de Empresa,3831.98,Atrasado,José Pereira,10,1635.92,57.31
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2024-11-17,Balanço Patrimonial,19712.84,Atrasado,Juliana Costa,9,10893.23,44.74
+Cliente_80,Cartório Documentos,Comércio Varejista,Pequeno,2020-06-03,2020-09-20,Consultoria Contábil,1656.05,Pago,Maria Santos,10,700.08,57.73
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2023-08-25,Escrituração Contábil,4752.0,Atrasado,Juliana Costa,9,1746.14,63.25
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2024-03-03,Demonstrativo de Resultado,1317.55,Atrasado,Pedro Martins,9,609.52,53.74
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2023-01-11,Demonstrativo de Resultado,1598.25,Pendente,José Pereira,9,898.92,43.76
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2024-11-25,Consultoria Tributária,18573.16,Atrasado,Juliana Costa,9,10369.67,44.17
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2024-11-15,Declaração IR,1813.48,Atrasado,Juliana Costa,8,720.13,60.29
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2022-01-11,Consultoria Tributária,9442.65,Atrasado,Fernanda Lima,10,5435.48,42.44
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2025-02-25,Imposto de Renda PJ,1007.33,Pendente,Carlos Oliveira,10,450.11,55.32
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2024-02-23,Consultoria Tributária,2748.0,Atrasado,Maria Santos,9,1397.11,49.16
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2024-07-14,Planejamento Tributário,3991.62,Atrasado,Juliana Costa,9,2215.48,44.5
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2022-08-22,Abertura de Empresa,2824.55,Atrasado,José Pereira,8,1327.09,53.02
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2023-03-30,Imposto de Renda PJ,16828.24,Pendente,Juliana Costa,8,7276.29,56.76
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2023-12-10,Abertura de Empresa,2871.81,Pendente,José Pereira,7,1425.5,50.36
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-04-03,Auditoria,3068.73,Pendente,Ana Silva,10,1524.07,50.34
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2020-12-02,Folha de Pagamento,1794.0,Atrasado,Fernanda Lima,9,977.97,45.49
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2024-08-31,Declaração IR,3421.5,Atrasado,Pedro Martins,9,1167.21,65.89
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2023-01-13,Imposto de Renda PJ,13008.86,Atrasado,Roberto Alves,8,6353.84,51.16
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2022-09-05,Análise Financeira,6742.28,Atrasado,José Pereira,10,2733.73,59.45
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-08-09,Demonstrativo de Resultado,3147.25,Atrasado,Pedro Martins,7,1744.73,44.56
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-01-06,Abertura de Empresa,1836.63,Pendente,Maria Santos,8,823.67,55.15
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2022-07-11,Planejamento Tributário,3794.44,Atrasado,Fernanda Lima,10,2118.22,44.18
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-11-23,Auditoria,5527.56,Atrasado,Carlos Oliveira,7,2093.04,62.13
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2021-11-23,Demonstrativo de Resultado,14051.51,Atrasado,Ana Silva,8,5385.11,61.68
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2023-12-26,Balanço Patrimonial,6178.07,Pendente,Roberto Alves,7,2428.3,60.69
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2025-01-05,Consultoria Contábil,1188.09,Atrasado,Juliana Costa,8,399.0,66.42
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2021-02-27,Escrituração Contábil,3151.13,Atrasado,Fernanda Lima,9,1065.33,66.19
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2023-10-18,Escrituração Contábil,5056.83,Atrasado,Roberto Alves,7,2269.73,55.12
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2023-10-12,Folha de Pagamento,6601.53,Atrasado,José Pereira,7,2432.8,63.15
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2021-10-10,Folha de Pagamento,4249.03,Pago,José Pereira,8,2461.67,42.07
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2025-03-11,Demonstrativo de Resultado,9752.64,Pendente,Juliana Costa,9,5342.49,45.22
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2022-09-09,Contabilidade Fiscal,1329.33,Pago,Maria Santos,10,426.29,67.93
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2025-03-12,Consultoria Tributária,10463.63,Atrasado,Roberto Alves,9,5460.68,47.81
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2024-04-10,Auditoria,23901.83,Pago,José Pereira,8,8250.19,65.48
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2023-02-25,Abertura de Empresa,5286.81,Pendente,Carlos Oliveira,10,2932.6,44.53
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2024-02-27,Contabilidade Fiscal,10046.57,Pago,Roberto Alves,8,5158.87,48.65
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2020-08-19,Abertura de Empresa,17553.35,Pago,Ana Silva,7,8324.35,52.58
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-01-22,Imposto de Renda PJ,3073.79,Pago,Roberto Alves,8,1191.1,61.25
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2025-03-02,Regularização Fiscal,6824.18,Atrasado,José Pereira,7,2365.42,65.34
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2023-04-27,Planejamento Tributário,4730.86,Atrasado,Fernanda Lima,7,1547.59,67.29
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2023-11-07,Consultoria Contábil,2502.15,Pendente,Ana Silva,9,1048.08,58.11
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-08-01,Consultoria Tributária,4860.78,Atrasado,Fernanda Lima,7,2132.0,56.14
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2024-03-13,Folha de Pagamento,5429.45,Atrasado,José Pereira,7,2577.34,52.53
+Cliente_34,Frigorífico Carnes,Educação,Médio,2020-02-09,2025-04-01,Consultoria Contábil,7705.83,Pago,Carlos Oliveira,7,4404.06,42.85
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2021-01-30,Folha de Pagamento,1510.27,Atrasado,Ana Silva,10,762.63,49.5
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-02-20,Abertura de Empresa,13192.98,Atrasado,Fernanda Lima,9,5932.45,55.03
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2023-07-28,Folha de Pagamento,2591.11,Atrasado,Pedro Martins,7,1546.43,40.32
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2024-04-02,Planejamento Tributário,26853.71,Atrasado,Roberto Alves,9,12866.55,52.09
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2024-02-28,Folha de Pagamento,6974.69,Atrasado,Ana Silva,8,3466.83,50.29
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2023-04-25,Consultoria Contábil,2756.9,Pendente,José Pereira,10,1120.52,59.36
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2023-08-22,Abertura de Empresa,19451.78,Pendente,Fernanda Lima,8,9121.58,53.11
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2025-02-09,Demonstrativo de Resultado,8882.56,Atrasado,Carlos Oliveira,8,2717.87,69.4
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2021-01-16,Auditoria,3916.55,Pago,Carlos Oliveira,9,1244.94,68.21
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2024-07-28,Escrituração Contábil,1810.03,Pago,Ana Silva,9,925.58,48.86
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-07-18,Análise Financeira,971.07,Pago,Maria Santos,10,480.44,50.52
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2025-02-16,Balanço Patrimonial,15804.8,Atrasado,Fernanda Lima,9,8221.63,47.98
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2023-04-25,Declaração IR,5689.56,Pago,Juliana Costa,7,2017.66,64.54
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2025-03-18,Análise Financeira,5489.55,Pago,José Pereira,8,2218.01,59.6
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2021-08-13,Imposto de Renda PJ,3260.91,Atrasado,José Pereira,9,1183.4,63.71
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2022-12-16,Auditoria,1729.6,Pendente,Roberto Alves,10,774.73,55.21
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-04-09,Balanço Patrimonial,17015.03,Atrasado,Carlos Oliveira,10,5480.76,67.79
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2024-06-19,Folha de Pagamento,4290.52,Pendente,Juliana Costa,7,1722.15,59.86
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2025-03-07,Escrituração Contábil,530.18,Atrasado,Juliana Costa,8,314.04,40.77
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2025-01-14,Balanço Patrimonial,5208.89,Atrasado,Carlos Oliveira,10,1802.68,65.39
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2021-01-31,Regularização Fiscal,7571.97,Atrasado,Carlos Oliveira,9,4491.07,40.69
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2025-01-14,Contabilidade Fiscal,10209.54,Atrasado,Maria Santos,8,4199.25,58.87
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-05-16,Declaração IR,10946.63,Atrasado,Carlos Oliveira,7,3565.45,67.43
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2025-04-08,Regularização Fiscal,6844.34,Pago,Pedro Martins,10,4036.03,41.03
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2024-10-21,Análise Financeira,3150.87,Atrasado,Ana Silva,8,1058.96,66.39
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-03-03,Declaração IR,2166.45,Atrasado,José Pereira,10,781.17,63.94
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2023-09-05,Consultoria Contábil,4711.72,Atrasado,Maria Santos,9,2624.37,44.3
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2025-01-18,Consultoria Contábil,821.64,Atrasado,Fernanda Lima,7,474.48,42.25
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-01-01,Demonstrativo de Resultado,3896.88,Atrasado,Carlos Oliveira,10,1212.86,68.88
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2023-11-08,Declaração IR,1677.14,Atrasado,Carlos Oliveira,7,878.36,47.63
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2025-05-09,Auditoria,1014.1,Atrasado,José Pereira,7,600.09,40.83
+Cliente_30,Escola Idiomas,Educação,Pequeno,2021-08-24,2022-05-26,Consultoria Tributária,3367.58,Atrasado,Juliana Costa,8,1456.53,56.75
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2025-02-28,Planejamento Tributário,8769.68,Atrasado,Carlos Oliveira,10,2987.79,65.93
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2024-12-24,Análise Financeira,928.07,Atrasado,Pedro Martins,9,474.61,48.86
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2023-10-04,Consultoria Contábil,1859.51,Atrasado,Carlos Oliveira,10,656.92,64.67
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2024-04-25,Balanço Patrimonial,19031.05,Atrasado,Maria Santos,10,5992.79,68.51
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2024-12-21,Abertura de Empresa,2554.8,Atrasado,Maria Santos,7,1129.81,55.78
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2024-07-17,Declaração IR,1784.69,Pendente,Pedro Martins,9,762.32,57.29
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2025-01-28,Auditoria,16109.12,Atrasado,Carlos Oliveira,7,7304.75,54.65
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-06-04,Balanço Patrimonial,1762.43,Pendente,Maria Santos,9,984.22,44.16
+Cliente_34,Frigorífico Carnes,Educação,Médio,2020-02-09,2023-10-14,Escrituração Contábil,3571.27,Atrasado,Carlos Oliveira,10,1779.06,50.18
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-12-05,Escrituração Contábil,523.78,Pendente,Ana Silva,8,211.06,59.7
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2023-06-27,Imposto de Renda PJ,20368.24,Pendente,Roberto Alves,8,7905.63,61.19
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2023-01-12,Escrituração Contábil,10645.8,Atrasado,Maria Santos,7,3903.56,63.33
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2024-10-24,Consultoria Contábil,11872.6,Pendente,Fernanda Lima,10,3752.97,68.39
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2024-12-31,Análise Financeira,3066.62,Atrasado,Roberto Alves,9,1300.04,57.61
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2021-02-20,Abertura de Empresa,8166.73,Pendente,José Pereira,8,4358.44,46.63
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2023-03-08,Imposto de Renda PJ,7737.28,Pendente,Juliana Costa,8,3457.58,55.31
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2023-12-21,Declaração IR,1864.84,Atrasado,Roberto Alves,8,968.22,48.08
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2022-05-18,Demonstrativo de Resultado,13272.2,Atrasado,Carlos Oliveira,9,5224.31,60.64
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2024-09-09,Balanço Patrimonial,3120.15,Pendente,Roberto Alves,9,1341.98,56.99
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-11-23,Auditoria,3721.1,Pago,Ana Silva,10,1137.68,69.43
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2024-09-19,Declaração IR,11147.0,Pendente,Fernanda Lima,10,6275.35,43.7
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2025-03-08,Balanço Patrimonial,1718.93,Pago,Ana Silva,7,871.37,49.31
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2022-07-28,Regularização Fiscal,19228.31,Atrasado,Carlos Oliveira,10,9585.3,50.15
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2024-03-29,Consultoria Tributária,2787.37,Atrasado,Maria Santos,9,931.55,66.58
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2025-05-01,Abertura de Empresa,7115.95,Atrasado,Roberto Alves,8,2218.91,68.82
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2023-10-29,Escrituração Contábil,1768.41,Pago,Ana Silva,10,609.65,65.53
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2024-10-04,Balanço Patrimonial,18789.31,Pendente,Ana Silva,9,8253.83,56.07
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2025-01-02,Declaração IR,5661.41,Atrasado,José Pereira,7,1714.85,69.71
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2024-05-02,Auditoria,24134.45,Pendente,José Pereira,8,8064.52,66.59
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2024-02-13,Consultoria Tributária,3107.01,Atrasado,Pedro Martins,8,1581.01,49.11
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2025-04-22,Declaração IR,5758.74,Atrasado,Carlos Oliveira,9,2783.82,51.66
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-11-16,Planejamento Tributário,3248.67,Atrasado,Ana Silva,8,1927.66,40.66
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2022-11-25,Balanço Patrimonial,1724.07,Atrasado,Roberto Alves,10,594.11,65.54
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2025-02-22,Folha de Pagamento,3818.89,Atrasado,Ana Silva,10,1513.01,60.38
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2021-12-15,Folha de Pagamento,1072.26,Atrasado,Ana Silva,10,349.99,67.36
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2024-06-30,Auditoria,1248.35,Atrasado,Ana Silva,7,683.81,45.22
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2025-05-04,Imposto de Renda PJ,1385.6,Pago,Maria Santos,9,758.75,45.24
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2025-05-17,Planejamento Tributário,21804.66,Atrasado,Fernanda Lima,7,11508.41,47.22
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2020-08-26,Auditoria,26246.23,Atrasado,Fernanda Lima,8,11751.14,55.23
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2024-07-14,Contabilidade Fiscal,6644.7,Pendente,Roberto Alves,8,3422.26,48.5
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2024-11-11,Folha de Pagamento,3806.4,Atrasado,Roberto Alves,8,2242.57,41.08
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2024-07-07,Escrituração Contábil,513.81,Pendente,José Pereira,8,260.78,49.25
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2025-03-12,Consultoria Contábil,17771.71,Atrasado,Fernanda Lima,8,6790.19,61.79
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2023-07-02,Planejamento Tributário,3494.37,Pendente,Carlos Oliveira,9,1794.58,48.64
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2024-06-06,Abertura de Empresa,5629.02,Pendente,Pedro Martins,8,2539.63,54.88
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2024-05-21,Escrituração Contábil,614.36,Atrasado,Roberto Alves,9,346.03,43.68
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2024-12-26,Folha de Pagamento,1717.2,Pendente,Pedro Martins,8,1021.84,40.49
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2023-07-20,Declaração IR,2217.95,Pendente,Ana Silva,7,1075.33,51.52
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2024-07-16,Consultoria Contábil,13362.43,Atrasado,Fernanda Lima,7,7722.76,42.21
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2024-03-27,Demonstrativo de Resultado,10446.04,Atrasado,Carlos Oliveira,10,5734.82,45.1
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2025-05-11,Auditoria,3445.66,Pago,Roberto Alves,9,1497.64,56.54
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-07-24,Declaração IR,2118.17,Atrasado,Ana Silva,8,1006.55,52.48
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-01-14,Auditoria,2604.65,Pendente,Ana Silva,9,1164.71,55.28
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2023-09-07,Auditoria,1330.02,Pendente,Maria Santos,8,564.97,57.52
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2022-09-03,Contabilidade Fiscal,989.5,Pendente,José Pereira,10,592.7,40.1
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-09-24,Folha de Pagamento,552.96,Pago,José Pereira,8,324.96,41.23
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2023-12-11,Regularização Fiscal,3211.26,Pendente,Ana Silva,9,1458.85,54.57
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2024-04-04,Planejamento Tributário,13194.3,Pago,José Pereira,8,7804.28,40.85
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2023-09-18,Balanço Patrimonial,16046.83,Atrasado,Fernanda Lima,7,5803.72,63.83
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2025-01-21,Escrituração Contábil,1570.42,Atrasado,José Pereira,9,488.98,68.86
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2023-02-27,Declaração IR,4168.94,Atrasado,Carlos Oliveira,10,1792.26,57.01
+Cliente_3,Empresa Telemarketing,Alimentação,Pequeno,2020-03-02,2022-05-08,Imposto de Renda PJ,865.59,Atrasado,Carlos Oliveira,7,352.56,59.27
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2023-12-25,Consultoria Tributária,5504.63,Atrasado,Roberto Alves,7,2434.13,55.78
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2021-08-23,Declaração IR,1864.44,Atrasado,José Pereira,9,1094.83,41.28
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2023-09-04,Consultoria Contábil,7721.89,Pendente,Carlos Oliveira,9,2803.17,63.7
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2025-05-26,Escrituração Contábil,10339.28,Atrasado,Carlos Oliveira,9,3704.54,64.17
+Cliente_24,SPA Relaxamento,Alimentação,Grande,2022-03-28,2022-07-17,Consultoria Contábil,16187.99,Atrasado,Roberto Alves,9,5333.31,67.05
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2024-04-03,Planejamento Tributário,5525.85,Atrasado,Fernanda Lima,8,2184.57,60.47
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2024-01-14,Análise Financeira,10577.9,Pendente,Pedro Martins,8,3188.7,69.86
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2022-11-30,Escrituração Contábil,11178.86,Pendente,José Pereira,10,4847.24,56.64
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2024-01-01,Planejamento Tributário,22463.23,Atrasado,Roberto Alves,8,8512.9,62.1
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2023-06-24,Escrituração Contábil,1676.82,Atrasado,Maria Santos,8,958.96,42.81
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-05-06,Balanço Patrimonial,4374.12,Pendente,Pedro Martins,9,1487.92,65.98
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2025-02-11,Contabilidade Fiscal,3750.54,Atrasado,Roberto Alves,8,1977.14,47.28
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2025-02-08,Declaração IR,15214.48,Atrasado,José Pereira,9,4748.83,68.79
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2025-02-02,Abertura de Empresa,839.16,Pago,Roberto Alves,9,349.45,58.36
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2021-06-24,Folha de Pagamento,2387.93,Pendente,Ana Silva,9,1130.9,52.64
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-03-16,Regularização Fiscal,5616.13,Atrasado,Carlos Oliveira,8,2554.84,54.51
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2024-03-02,Planejamento Tributário,3454.27,Atrasado,Pedro Martins,9,1255.47,63.65
+Cliente_24,SPA Relaxamento,Alimentação,Grande,2022-03-28,2023-02-13,Auditoria,22825.62,Atrasado,Roberto Alves,10,10127.87,55.63
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2022-05-20,Imposto de Renda PJ,7715.78,Atrasado,Pedro Martins,7,4376.69,43.28
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2021-08-06,Declaração IR,1086.03,Atrasado,Ana Silva,9,634.43,41.58
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2024-03-22,Análise Financeira,7849.55,Pendente,Fernanda Lima,8,3822.44,51.3
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2023-03-30,Declaração IR,11648.96,Atrasado,José Pereira,7,3552.57,69.5
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2025-03-06,Imposto de Renda PJ,1573.94,Atrasado,Fernanda Lima,7,516.18,67.2
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2022-01-20,Análise Financeira,2169.08,Atrasado,Maria Santos,7,1104.7,49.07
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-05-13,Demonstrativo de Resultado,5025.19,Pago,Pedro Martins,7,2149.01,57.24
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2024-05-11,Demonstrativo de Resultado,1004.0,Atrasado,Ana Silva,7,475.29,52.66
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2023-04-25,Folha de Pagamento,10244.07,Atrasado,Maria Santos,9,3876.26,62.16
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2022-10-14,Análise Financeira,1763.09,Pendente,José Pereira,10,623.46,64.64
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-12-25,Planejamento Tributário,5775.94,Pendente,Ana Silva,7,3028.58,47.57
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2025-04-23,Escrituração Contábil,9594.33,Pago,Pedro Martins,7,3340.95,65.18
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2021-10-03,Demonstrativo de Resultado,691.25,Atrasado,Roberto Alves,7,333.67,51.73
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2023-02-26,Regularização Fiscal,6175.21,Pago,Fernanda Lima,8,3038.74,50.79
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2022-08-10,Abertura de Empresa,6749.56,Atrasado,Fernanda Lima,8,3270.55,51.54
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2021-08-04,Auditoria,14455.41,Atrasado,Fernanda Lima,10,6094.91,57.84
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2024-12-20,Folha de Pagamento,1228.96,Pendente,Maria Santos,9,496.8,59.58
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2023-05-11,Análise Financeira,2803.1,Atrasado,Carlos Oliveira,7,1264.06,54.9
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2022-07-04,Demonstrativo de Resultado,1478.89,Atrasado,Carlos Oliveira,10,693.53,53.1
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2022-01-23,Demonstrativo de Resultado,14028.31,Atrasado,Fernanda Lima,9,4492.79,67.97
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2022-12-18,Imposto de Renda PJ,2108.64,Pendente,Roberto Alves,9,789.64,62.55
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2022-08-17,Imposto de Renda PJ,13814.37,Atrasado,Ana Silva,9,4901.83,64.52
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2025-04-04,Abertura de Empresa,2012.36,Atrasado,Ana Silva,8,1108.61,44.91
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2023-08-21,Demonstrativo de Resultado,749.77,Pendente,Pedro Martins,7,415.67,44.56
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2023-10-02,Planejamento Tributário,8424.18,Pendente,Juliana Costa,9,3532.8,58.06
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-07-12,Declaração IR,703.15,Atrasado,José Pereira,8,307.39,56.28
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2024-04-25,Balanço Patrimonial,6268.75,Atrasado,Maria Santos,9,2232.59,64.39
+Cliente_34,Frigorífico Carnes,Educação,Médio,2020-02-09,2021-06-08,Consultoria Tributária,6908.95,Pendente,Carlos Oliveira,9,2829.38,59.05
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2023-02-16,Planejamento Tributário,1383.28,Atrasado,Pedro Martins,8,645.44,53.34
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2021-05-26,Declaração IR,10531.01,Atrasado,Carlos Oliveira,9,5640.41,46.44
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-07-26,Balanço Patrimonial,7262.38,Atrasado,José Pereira,7,3158.82,56.5
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2021-11-08,Auditoria,2016.05,Atrasado,Ana Silva,8,953.7,52.69
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2024-12-15,Balanço Patrimonial,5838.68,Pendente,Juliana Costa,7,2419.09,58.57
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2024-12-30,Imposto de Renda PJ,2941.03,Atrasado,Pedro Martins,10,1631.3,44.53
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2023-03-25,Declaração IR,3677.04,Atrasado,Carlos Oliveira,10,1964.61,46.57
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2025-04-04,Análise Financeira,5741.2,Atrasado,Carlos Oliveira,9,3342.13,41.79
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2024-05-02,Contabilidade Fiscal,887.13,Atrasado,José Pereira,10,405.59,54.28
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2022-03-23,Consultoria Tributária,25200.91,Pendente,Roberto Alves,10,12296.64,51.21
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2023-11-13,Consultoria Contábil,1228.04,Atrasado,Pedro Martins,9,570.5,53.54
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2025-05-15,Declaração IR,16117.83,Atrasado,José Pereira,9,9230.31,42.73
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2024-01-25,Abertura de Empresa,2437.59,Atrasado,Carlos Oliveira,8,982.75,59.68
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2024-03-03,Folha de Pagamento,9641.25,Pendente,Maria Santos,8,5196.93,46.1
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-12-24,Abertura de Empresa,5150.58,Atrasado,Pedro Martins,10,1886.03,63.38
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2024-01-04,Imposto de Renda PJ,20953.63,Atrasado,Roberto Alves,9,8881.64,57.61
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2022-12-13,Declaração IR,4478.95,Atrasado,Fernanda Lima,7,1548.13,65.44
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2020-07-14,Declaração IR,2321.25,Atrasado,José Pereira,7,1040.09,55.19
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-03-16,Consultoria Tributária,3140.46,Atrasado,Carlos Oliveira,8,994.93,68.32
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2024-06-27,Contabilidade Fiscal,13259.36,Atrasado,Roberto Alves,8,5508.46,58.46
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2023-12-08,Escrituração Contábil,2147.94,Atrasado,Fernanda Lima,10,1083.49,49.56
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2024-09-01,Declaração IR,2562.55,Atrasado,Roberto Alves,8,1045.85,59.19
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-02-16,Contabilidade Fiscal,3496.93,Atrasado,Fernanda Lima,8,1058.45,69.73
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2024-10-25,Demonstrativo de Resultado,7595.13,Atrasado,Ana Silva,9,4399.51,42.07
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2023-11-22,Folha de Pagamento,761.71,Atrasado,Roberto Alves,9,412.59,45.83
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2023-08-19,Folha de Pagamento,2655.71,Atrasado,Fernanda Lima,9,1229.12,53.72
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2022-05-19,Análise Financeira,18832.39,Pendente,Juliana Costa,8,6038.85,67.93
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2022-11-21,Consultoria Tributária,6884.73,Pendente,José Pereira,7,3345.43,51.41
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2024-07-17,Abertura de Empresa,3494.66,Atrasado,Carlos Oliveira,8,1691.11,51.61
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2022-06-01,Imposto de Renda PJ,2911.9,Pago,José Pereira,8,1636.63,43.8
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2023-10-26,Planejamento Tributário,1462.77,Atrasado,Maria Santos,9,460.37,68.53
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2024-01-14,Escrituração Contábil,6367.68,Atrasado,Fernanda Lima,7,2599.78,59.17
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2023-10-04,Consultoria Contábil,1506.38,Atrasado,Ana Silva,9,487.13,67.66
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2024-06-02,Contabilidade Fiscal,2527.76,Atrasado,Fernanda Lima,8,1181.8,53.25
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-08-04,Escrituração Contábil,3495.19,Pendente,Ana Silva,8,1879.5,46.23
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2023-02-19,Balanço Patrimonial,3180.22,Atrasado,Pedro Martins,9,1760.11,44.65
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2025-03-24,Imposto de Renda PJ,5922.51,Pendente,Carlos Oliveira,9,2416.4,59.2
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2024-05-15,Regularização Fiscal,12046.06,Pendente,Pedro Martins,7,4699.17,60.99
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2021-11-04,Consultoria Contábil,23045.95,Pago,Fernanda Lima,8,7565.67,67.17
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2023-03-19,Declaração IR,3522.77,Atrasado,Ana Silva,10,1658.24,52.93
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2025-01-08,Contabilidade Fiscal,4663.95,Atrasado,Fernanda Lima,7,2232.02,52.14
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2023-12-21,Escrituração Contábil,12493.18,Pendente,José Pereira,10,5309.06,57.5
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2025-04-11,Demonstrativo de Resultado,10940.52,Pago,Maria Santos,10,3459.81,68.38
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2020-04-13,Auditoria,2473.5,Pendente,Pedro Martins,10,1462.61,40.87
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-07-31,Análise Financeira,1968.84,Atrasado,José Pereira,7,914.42,53.56
+Cliente_34,Frigorífico Carnes,Educação,Médio,2020-02-09,2020-08-01,Regularização Fiscal,6810.02,Atrasado,Carlos Oliveira,8,3189.47,53.17
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-05-02,Abertura de Empresa,14466.44,Atrasado,Carlos Oliveira,10,6178.07,57.29
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2024-04-14,Auditoria,7407.74,Pendente,Pedro Martins,10,3607.23,51.3
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2022-10-19,Consultoria Contábil,6362.14,Pendente,Fernanda Lima,8,3719.83,41.53
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2022-11-24,Folha de Pagamento,807.25,Pendente,Ana Silva,8,291.53,63.89
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2024-06-27,Balanço Patrimonial,1655.18,Atrasado,Fernanda Lima,7,623.4,62.34
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2022-03-01,Abertura de Empresa,5959.77,Atrasado,Carlos Oliveira,9,2973.3,50.11
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2023-05-06,Consultoria Contábil,970.22,Pago,Maria Santos,7,554.15,42.88
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2024-08-30,Balanço Patrimonial,19299.73,Atrasado,Juliana Costa,9,7721.26,59.99
+Cliente_51,Sorveteria Gelada,Tecnologia,Pequeno,2023-01-03,2025-02-03,Declaração IR,608.04,Pago,Pedro Martins,9,330.51,45.64
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2023-12-26,Regularização Fiscal,7638.8,Atrasado,Maria Santos,10,3797.09,50.29
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2024-06-24,Regularização Fiscal,24206.46,Atrasado,Ana Silva,10,14309.92,40.88
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2023-09-19,Planejamento Tributário,2516.0,Pendente,Maria Santos,9,1274.5,49.34
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2025-02-24,Declaração IR,1417.05,Atrasado,Pedro Martins,7,662.05,53.28
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2021-08-30,Declaração IR,5862.22,Atrasado,Fernanda Lima,10,2292.15,60.9
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2024-12-30,Escrituração Contábil,767.95,Atrasado,Ana Silva,9,369.91,51.83
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2023-10-08,Análise Financeira,1408.31,Atrasado,Juliana Costa,10,723.32,48.64
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2023-01-06,Consultoria Contábil,4851.34,Pendente,Juliana Costa,9,2838.32,41.49
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2024-10-20,Imposto de Renda PJ,8602.94,Pago,Fernanda Lima,10,4356.17,49.36
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2022-08-08,Regularização Fiscal,3526.86,Atrasado,Ana Silva,7,1608.93,54.38
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2024-05-24,Consultoria Contábil,11270.54,Pago,Pedro Martins,7,5266.84,53.27
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2023-11-26,Abertura de Empresa,1497.23,Atrasado,Fernanda Lima,7,759.07,49.3
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2023-11-19,Consultoria Contábil,2062.59,Pendente,Ana Silva,8,862.0,58.21
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2022-08-24,Folha de Pagamento,2836.92,Atrasado,José Pereira,8,1462.47,48.45
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2020-11-28,Contabilidade Fiscal,6095.71,Pendente,Maria Santos,8,2521.21,58.64
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2020-07-18,Demonstrativo de Resultado,16178.5,Atrasado,Carlos Oliveira,7,6890.01,57.41
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2025-01-05,Consultoria Tributária,3983.12,Atrasado,Roberto Alves,10,1789.57,55.07
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2024-10-07,Demonstrativo de Resultado,569.43,Atrasado,Ana Silva,7,273.53,51.96
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2022-11-30,Balanço Patrimonial,1122.6,Atrasado,José Pereira,9,349.15,68.9
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2025-04-05,Consultoria Contábil,8125.97,Pago,Juliana Costa,8,4076.21,49.84
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2023-06-21,Planejamento Tributário,3251.31,Pendente,Juliana Costa,7,1715.17,47.25
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2021-03-31,Consultoria Tributária,4113.45,Atrasado,Pedro Martins,8,1989.33,51.64
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2023-01-12,Planejamento Tributário,7546.99,Pendente,Roberto Alves,9,3453.63,54.24
+Cliente_80,Cartório Documentos,Comércio Varejista,Pequeno,2020-06-03,2022-05-28,Declaração IR,1704.95,Pendente,Maria Santos,8,873.92,48.74
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2022-10-08,Contabilidade Fiscal,6609.42,Pendente,Carlos Oliveira,10,2073.03,68.64
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2025-04-27,Demonstrativo de Resultado,2139.57,Pago,Pedro Martins,9,834.61,60.99
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-09-13,Demonstrativo de Resultado,4663.57,Atrasado,Pedro Martins,8,1670.51,64.18
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-07-15,Planejamento Tributário,3304.15,Atrasado,Carlos Oliveira,9,1449.67,56.13
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2025-03-02,Folha de Pagamento,2232.88,Atrasado,Carlos Oliveira,9,1205.44,46.01
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2023-05-21,Declaração IR,1132.78,Atrasado,Pedro Martins,10,403.51,64.38
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2025-05-22,Consultoria Tributária,5207.03,Atrasado,Fernanda Lima,10,2857.81,45.12
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-06-21,Balanço Patrimonial,17632.33,Pago,José Pereira,10,7966.26,54.82
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2023-11-05,Declaração IR,946.83,Atrasado,Carlos Oliveira,7,517.58,45.34
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2024-02-19,Abertura de Empresa,2390.92,Pendente,Fernanda Lima,7,956.34,60.0
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2022-02-19,Balanço Patrimonial,7143.39,Atrasado,Ana Silva,8,2555.65,64.22
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2024-03-20,Auditoria,3091.05,Pendente,Carlos Oliveira,7,1118.88,63.8
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2025-04-16,Auditoria,9802.79,Atrasado,Pedro Martins,9,4530.59,53.78
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2022-08-20,Folha de Pagamento,2933.73,Atrasado,Fernanda Lima,10,1422.55,51.51
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2024-09-11,Consultoria Contábil,5872.27,Pago,Roberto Alves,10,2761.94,52.97
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2024-12-11,Demonstrativo de Resultado,10899.25,Atrasado,Ana Silva,8,6367.72,41.58
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2024-09-28,Consultoria Tributária,3475.88,Pendente,Ana Silva,10,1551.12,55.37
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2024-08-04,Contabilidade Fiscal,3565.05,Atrasado,Fernanda Lima,7,1503.4,57.83
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2022-11-03,Auditoria,15917.15,Atrasado,Roberto Alves,8,7391.68,53.56
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2023-03-12,Contabilidade Fiscal,1068.56,Pendente,Carlos Oliveira,8,376.05,64.81
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2021-06-10,Escrituração Contábil,1738.12,Atrasado,Roberto Alves,10,613.3,64.71
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2021-12-13,Análise Financeira,1035.29,Atrasado,Pedro Martins,7,378.17,63.47
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2023-11-10,Demonstrativo de Resultado,11094.21,Atrasado,José Pereira,9,4325.86,61.01
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2023-02-05,Regularização Fiscal,25754.09,Atrasado,Fernanda Lima,8,14312.88,44.42
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2022-08-23,Balanço Patrimonial,2852.53,Atrasado,Carlos Oliveira,7,1057.07,62.94
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2023-06-10,Regularização Fiscal,2412.61,Atrasado,José Pereira,8,860.02,64.35
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2023-12-02,Consultoria Contábil,19048.97,Atrasado,Carlos Oliveira,8,9836.92,48.36
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2025-01-02,Regularização Fiscal,11495.58,Pendente,Juliana Costa,10,5598.05,51.3
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2024-01-28,Regularização Fiscal,5337.33,Atrasado,Ana Silva,8,2741.46,48.64
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2022-08-17,Balanço Patrimonial,1767.95,Atrasado,José Pereira,7,605.75,65.74
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2025-05-21,Consultoria Contábil,13253.11,Pago,Roberto Alves,7,4950.96,62.64
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2025-05-05,Imposto de Renda PJ,3314.43,Atrasado,Maria Santos,9,1526.33,53.95
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2023-03-15,Planejamento Tributário,23072.16,Pago,Carlos Oliveira,9,8923.45,61.32
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2025-04-25,Escrituração Contábil,7020.97,Atrasado,Juliana Costa,9,3810.06,45.73
+Cliente_80,Cartório Documentos,Comércio Varejista,Pequeno,2020-06-03,2020-07-28,Consultoria Tributária,2334.21,Atrasado,Maria Santos,9,1300.99,44.26
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2024-09-23,Contabilidade Fiscal,12784.05,Atrasado,Carlos Oliveira,8,5694.98,55.45
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2024-11-19,Folha de Pagamento,881.84,Atrasado,Pedro Martins,10,468.35,46.89
+Cliente_31,Clínica Odontológica Sorriso,Construção,Pequeno,2021-06-23,2025-03-07,Planejamento Tributário,3225.5,Atrasado,Maria Santos,7,1018.47,68.42
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2022-07-29,Planejamento Tributário,23950.9,Pendente,Roberto Alves,10,9072.3,62.12
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2024-12-06,Regularização Fiscal,911.67,Pago,Pedro Martins,7,300.13,67.08
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2023-12-26,Auditoria,4145.81,Atrasado,José Pereira,7,1561.33,62.34
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2023-05-17,Planejamento Tributário,23868.11,Atrasado,Roberto Alves,8,9403.58,60.6
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2024-05-05,Folha de Pagamento,4402.8,Atrasado,Carlos Oliveira,9,1653.55,62.44
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2023-09-16,Análise Financeira,19747.27,Pago,Juliana Costa,7,10118.95,48.76
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2020-11-18,Consultoria Contábil,19518.66,Atrasado,Maria Santos,7,9929.07,49.13
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-11-06,Planejamento Tributário,3112.91,Atrasado,Ana Silva,9,1174.19,62.28
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2022-09-14,Consultoria Tributária,13669.04,Pago,Roberto Alves,9,4830.35,64.66
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2024-09-07,Abertura de Empresa,3532.12,Atrasado,Fernanda Lima,7,2026.67,42.62
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2023-09-10,Contabilidade Fiscal,12956.09,Atrasado,Roberto Alves,7,7512.82,42.01
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2023-03-12,Consultoria Tributária,1179.38,Pendente,Roberto Alves,10,508.1,56.92
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2022-10-29,Balanço Patrimonial,16325.65,Atrasado,Roberto Alves,9,6530.78,60.0
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-12-27,Folha de Pagamento,4758.06,Pago,José Pereira,7,2628.14,44.76
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2024-07-14,Imposto de Renda PJ,1162.77,Atrasado,Roberto Alves,7,568.81,51.08
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2024-07-25,Contabilidade Fiscal,1658.09,Pendente,Pedro Martins,8,740.78,55.32
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2024-12-16,Imposto de Renda PJ,4991.42,Pago,Fernanda Lima,7,2005.48,59.82
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2022-02-02,Regularização Fiscal,1141.79,Pendente,Carlos Oliveira,8,596.37,47.77
+Cliente_30,Escola Idiomas,Educação,Pequeno,2021-08-24,2022-01-18,Folha de Pagamento,1387.0,Atrasado,Juliana Costa,8,422.08,69.57
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2023-05-28,Consultoria Tributária,4402.07,Pendente,Maria Santos,7,1977.16,55.09
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2023-09-17,Contabilidade Fiscal,1871.27,Atrasado,Juliana Costa,8,741.92,60.35
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2025-02-08,Folha de Pagamento,2232.63,Atrasado,Fernanda Lima,8,963.6,56.84
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2021-05-29,Declaração IR,14090.62,Atrasado,Roberto Alves,7,4257.72,69.78
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2024-05-08,Imposto de Renda PJ,17685.66,Atrasado,Ana Silva,8,8700.42,50.81
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2025-01-10,Regularização Fiscal,1488.21,Atrasado,Fernanda Lima,7,726.48,51.18
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-11-03,Regularização Fiscal,10561.04,Atrasado,José Pereira,8,4639.09,56.07
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2025-02-10,Abertura de Empresa,4015.18,Pago,Maria Santos,10,1803.84,55.07
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2024-12-12,Folha de Pagamento,2351.04,Pendente,Pedro Martins,10,735.86,68.7
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2023-01-05,Balanço Patrimonial,11822.48,Pendente,Carlos Oliveira,9,5033.06,57.43
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2025-03-22,Auditoria,1601.33,Atrasado,Ana Silva,8,515.72,67.79
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2023-11-24,Folha de Pagamento,11320.27,Atrasado,Roberto Alves,8,5542.48,51.04
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2021-06-16,Auditoria,1281.19,Atrasado,José Pereira,8,676.6,47.19
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2022-04-18,Análise Financeira,25129.63,Atrasado,Fernanda Lima,8,8190.81,67.41
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2025-02-18,Consultoria Contábil,2858.18,Pendente,Fernanda Lima,8,1069.96,62.56
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2024-03-03,Abertura de Empresa,2797.23,Pendente,Juliana Costa,7,1671.01,40.26
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2025-04-05,Folha de Pagamento,10889.83,Atrasado,Roberto Alves,7,5091.5,53.25
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2024-06-16,Escrituração Contábil,7322.47,Pago,Carlos Oliveira,7,3250.7,55.61
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2024-03-20,Escrituração Contábil,3658.28,Atrasado,Roberto Alves,10,1300.46,64.45
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2024-08-02,Escrituração Contábil,4447.46,Atrasado,Juliana Costa,10,2338.77,47.41
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2023-07-26,Balanço Patrimonial,1814.38,Pendente,José Pereira,9,1027.65,43.36
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2023-04-28,Auditoria,4371.05,Atrasado,Fernanda Lima,8,1492.81,65.85
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2021-09-25,Balanço Patrimonial,885.4,Pago,Ana Silva,8,465.68,47.4
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2024-05-09,Auditoria,1966.4,Atrasado,Roberto Alves,10,885.74,54.96
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2023-01-13,Escrituração Contábil,12474.09,Atrasado,Maria Santos,7,4447.09,64.35
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2021-09-15,Contabilidade Fiscal,2321.83,Atrasado,Ana Silva,8,1042.27,55.11
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2023-04-11,Imposto de Renda PJ,17982.96,Atrasado,Juliana Costa,7,6967.59,61.25
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2022-01-19,Consultoria Contábil,6535.46,Atrasado,Fernanda Lima,9,2913.8,55.42
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2024-11-29,Balanço Patrimonial,2123.03,Atrasado,Roberto Alves,9,781.35,63.2
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2023-08-08,Demonstrativo de Resultado,2934.92,Atrasado,Juliana Costa,9,1040.97,64.53
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2025-02-17,Escrituração Contábil,5495.33,Pago,Fernanda Lima,8,2375.45,56.77
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2023-01-07,Abertura de Empresa,3057.53,Atrasado,Juliana Costa,8,1406.75,53.99
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2020-07-16,Regularização Fiscal,26718.31,Pendente,Maria Santos,9,13203.47,50.58
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2024-04-14,Consultoria Tributária,7928.56,Pendente,Juliana Costa,10,3184.15,59.84
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2025-04-11,Planejamento Tributário,4418.35,Pendente,Fernanda Lima,10,1799.23,59.28
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2020-06-04,Análise Financeira,6523.31,Atrasado,José Pereira,10,3282.0,49.69
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2023-04-05,Regularização Fiscal,20452.3,Pago,Ana Silva,9,8574.98,58.07
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2024-08-20,Auditoria,16249.79,Atrasado,Roberto Alves,8,8423.18,48.16
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2024-11-17,Demonstrativo de Resultado,2958.5,Atrasado,Fernanda Lima,7,1015.04,65.69
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2025-03-13,Consultoria Contábil,21887.17,Atrasado,José Pereira,9,9287.91,57.56
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-09-21,Escrituração Contábil,4553.94,Atrasado,Ana Silva,9,2506.38,44.96
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2025-04-01,Balanço Patrimonial,15624.35,Atrasado,José Pereira,10,5269.36,66.27
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2022-08-14,Regularização Fiscal,1184.1,Atrasado,Roberto Alves,7,567.97,52.03
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2024-04-28,Planejamento Tributário,8707.65,Atrasado,Carlos Oliveira,7,4820.42,44.64
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2024-06-14,Folha de Pagamento,2629.31,Atrasado,Pedro Martins,9,827.22,68.54
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2024-06-10,Imposto de Renda PJ,4644.13,Pendente,Juliana Costa,9,2608.76,43.83
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2023-10-31,Consultoria Tributária,2794.73,Atrasado,Ana Silva,9,1151.16,58.81
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2023-08-17,Auditoria,14367.24,Pendente,Juliana Costa,7,6109.01,57.48
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2023-05-02,Consultoria Contábil,3195.83,Atrasado,Carlos Oliveira,9,1123.85,64.83
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2023-12-12,Escrituração Contábil,11337.88,Atrasado,José Pereira,8,6738.47,40.57
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2024-08-28,Demonstrativo de Resultado,2582.96,Atrasado,Pedro Martins,7,1138.37,55.93
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-02-22,Contabilidade Fiscal,880.8,Atrasado,Ana Silva,8,313.07,64.46
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2023-10-31,Contabilidade Fiscal,4306.2,Pendente,Pedro Martins,8,1944.13,54.85
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2022-06-25,Consultoria Contábil,2873.98,Pendente,Fernanda Lima,7,1701.61,40.79
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2021-08-24,Balanço Patrimonial,4171.06,Atrasado,José Pereira,9,2479.24,40.56
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-04-28,Balanço Patrimonial,2811.25,Atrasado,Pedro Martins,9,1437.73,48.86
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2023-07-17,Contabilidade Fiscal,2394.29,Pendente,Ana Silva,10,880.53,63.22
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2023-11-25,Consultoria Contábil,7270.15,Pago,Carlos Oliveira,9,2572.1,64.62
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2024-02-23,Imposto de Renda PJ,14873.46,Atrasado,Fernanda Lima,7,7770.34,47.76
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2021-02-28,Auditoria,6623.7,Pendente,Fernanda Lima,10,2540.56,61.64
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2023-10-09,Demonstrativo de Resultado,9854.71,Atrasado,Roberto Alves,10,4468.37,54.66
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2023-11-01,Contabilidade Fiscal,743.74,Pendente,Ana Silva,7,334.27,55.06
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2023-11-16,Regularização Fiscal,13983.14,Atrasado,Ana Silva,10,7520.4,46.22
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2024-05-04,Imposto de Renda PJ,1853.63,Atrasado,Maria Santos,7,1107.01,40.28
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2022-07-20,Planejamento Tributário,16529.95,Pendente,Maria Santos,9,9346.2,43.46
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2023-07-22,Regularização Fiscal,6499.4,Atrasado,Fernanda Lima,10,2877.76,55.72
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2024-01-12,Folha de Pagamento,2852.45,Pendente,Pedro Martins,9,908.3,68.16
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2021-09-24,Declaração IR,13494.4,Atrasado,Pedro Martins,7,5781.6,57.16
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2024-05-09,Auditoria,1125.4,Atrasado,Pedro Martins,9,376.27,66.57
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2020-11-28,Balanço Patrimonial,4457.4,Pago,Fernanda Lima,9,1364.5,69.39
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2024-04-27,Folha de Pagamento,7225.74,Atrasado,Maria Santos,8,2896.01,59.92
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-08-20,Declaração IR,3705.74,Pendente,Roberto Alves,8,1431.18,61.38
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-07-28,Análise Financeira,3934.62,Atrasado,Fernanda Lima,9,1503.06,61.8
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2025-03-16,Planejamento Tributário,6153.93,Atrasado,Carlos Oliveira,9,2215.56,64.0
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2022-12-20,Análise Financeira,2192.05,Atrasado,Pedro Martins,8,1036.96,52.69
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2024-10-25,Consultoria Contábil,5136.22,Pendente,Fernanda Lima,10,2981.01,41.96
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2022-10-08,Balanço Patrimonial,10099.24,Pendente,Roberto Alves,10,3995.22,60.44
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2023-01-25,Consultoria Contábil,6380.01,Atrasado,Fernanda Lima,7,2201.03,65.5
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2024-01-23,Demonstrativo de Resultado,11509.16,Atrasado,Ana Silva,8,4394.35,61.82
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2024-02-05,Demonstrativo de Resultado,7960.1,Pago,Ana Silva,10,4256.03,46.53
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2025-05-23,Contabilidade Fiscal,3157.34,Pago,Carlos Oliveira,7,1323.14,58.09
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2021-10-14,Abertura de Empresa,6332.85,Pendente,Fernanda Lima,9,2843.04,55.11
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2021-09-21,Análise Financeira,13492.35,Pendente,Ana Silva,8,7834.33,41.94
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2023-05-15,Contabilidade Fiscal,4668.51,Atrasado,Fernanda Lima,9,2380.4,49.01
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2022-12-13,Balanço Patrimonial,5662.05,Pago,Fernanda Lima,9,2505.83,55.74
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2023-09-18,Folha de Pagamento,3953.22,Atrasado,Juliana Costa,8,1486.0,62.41
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2023-08-20,Imposto de Renda PJ,16982.82,Pendente,Carlos Oliveira,10,5134.92,69.76
+Cliente_51,Sorveteria Gelada,Tecnologia,Pequeno,2023-01-03,2023-09-21,Consultoria Tributária,1077.43,Pendente,Pedro Martins,9,607.5,43.62
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2024-04-23,Regularização Fiscal,10412.79,Pendente,Fernanda Lima,9,5364.83,48.48
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2025-01-25,Declaração IR,4309.05,Pendente,José Pereira,10,2191.42,49.14
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2023-11-14,Imposto de Renda PJ,1898.34,Atrasado,Roberto Alves,9,897.43,52.73
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2022-01-22,Abertura de Empresa,7751.05,Atrasado,Fernanda Lima,9,3375.17,56.46
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2023-03-29,Consultoria Tributária,14246.36,Atrasado,Carlos Oliveira,10,8019.52,43.71
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2021-11-09,Folha de Pagamento,1576.67,Pago,Maria Santos,10,566.78,64.05
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2024-11-27,Declaração IR,641.23,Pago,José Pereira,8,374.59,41.58
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2020-06-23,Escrituração Contábil,13695.91,Atrasado,Maria Santos,8,4891.68,64.28
+Cliente_35,Ateliê Costura,Saúde,Pequeno,2020-04-28,2021-12-08,Escrituração Contábil,1139.49,Pago,José Pereira,9,590.27,48.2
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2023-12-09,Declaração IR,9030.58,Pendente,Carlos Oliveira,9,4288.36,52.51
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2025-02-08,Contabilidade Fiscal,535.38,Pendente,José Pereira,10,278.84,47.92
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-03-24,Contabilidade Fiscal,1327.74,Atrasado,Ana Silva,7,400.46,69.84
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-10-02,Consultoria Tributária,7791.57,Atrasado,Roberto Alves,8,3514.96,54.89
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-06-22,Declaração IR,724.88,Pendente,Carlos Oliveira,10,407.02,43.85
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2024-10-26,Auditoria,3864.06,Atrasado,Carlos Oliveira,9,1664.38,56.93
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2022-07-27,Escrituração Contábil,4134.6,Pendente,Fernanda Lima,7,1474.71,64.33
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-03-12,Declaração IR,3294.38,Pago,Fernanda Lima,10,1028.63,68.78
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2025-03-10,Balanço Patrimonial,1713.26,Atrasado,Pedro Martins,9,606.83,64.58
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2025-01-01,Balanço Patrimonial,4520.76,Pago,Fernanda Lima,7,2069.62,54.22
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2021-08-11,Regularização Fiscal,2937.65,Atrasado,Maria Santos,7,1228.67,58.18
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2022-01-27,Consultoria Contábil,15001.84,Atrasado,Pedro Martins,9,7174.8,52.17
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2023-05-22,Folha de Pagamento,1242.4,Pendente,José Pereira,8,451.5,63.66
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-06-29,Auditoria,8635.93,Atrasado,Fernanda Lima,8,5091.01,41.05
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2022-01-22,Folha de Pagamento,1361.62,Atrasado,Pedro Martins,7,530.44,61.04
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2025-01-18,Demonstrativo de Resultado,2012.43,Atrasado,Juliana Costa,8,899.33,55.31
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2024-07-27,Consultoria Tributária,24023.57,Atrasado,Carlos Oliveira,10,7876.95,67.21
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2023-09-04,Planejamento Tributário,25045.23,Atrasado,José Pereira,7,9697.79,61.28
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2021-05-14,Demonstrativo de Resultado,1445.88,Atrasado,Juliana Costa,9,680.37,52.94
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2021-04-24,Folha de Pagamento,2805.59,Pendente,Pedro Martins,9,1056.19,62.35
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2024-06-19,Folha de Pagamento,5090.89,Atrasado,Roberto Alves,9,2006.75,60.58
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2023-07-20,Demonstrativo de Resultado,4656.09,Atrasado,Fernanda Lima,8,1506.09,67.65
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2023-04-29,Consultoria Contábil,2217.57,Atrasado,Maria Santos,10,1125.51,49.25
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2024-09-12,Escrituração Contábil,1076.24,Atrasado,Maria Santos,10,582.67,45.86
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2021-02-02,Declaração IR,6773.19,Atrasado,Ana Silva,8,3352.2,50.51
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2024-06-07,Consultoria Contábil,2509.04,Atrasado,Juliana Costa,8,1431.97,42.93
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-11-01,Planejamento Tributário,26276.52,Atrasado,Carlos Oliveira,10,8284.37,68.47
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2021-02-23,Imposto de Renda PJ,12808.59,Pendente,Carlos Oliveira,9,3984.82,68.89
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2024-04-14,Balanço Patrimonial,1916.69,Pendente,Pedro Martins,7,817.66,57.34
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2023-10-12,Contabilidade Fiscal,3642.67,Atrasado,José Pereira,10,1855.05,49.07
+Cliente_3,Empresa Telemarketing,Alimentação,Pequeno,2020-03-02,2021-01-26,Consultoria Tributária,2865.13,Atrasado,Carlos Oliveira,10,972.27,66.07
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2024-12-25,Escrituração Contábil,3014.75,Atrasado,Juliana Costa,8,1466.83,51.34
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2023-12-10,Imposto de Renda PJ,1711.39,Pendente,Pedro Martins,10,669.32,60.89
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2023-06-24,Folha de Pagamento,6301.84,Pendente,Juliana Costa,7,3415.88,45.8
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-04-06,Contabilidade Fiscal,1357.26,Atrasado,Carlos Oliveira,7,720.74,46.9
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-03-05,Declaração IR,5106.27,Pendente,Ana Silva,10,3006.54,41.12
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2023-03-23,Contabilidade Fiscal,1539.31,Atrasado,José Pereira,8,752.69,51.1
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2022-05-20,Declaração IR,15138.7,Atrasado,Juliana Costa,9,6061.27,59.96
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2024-03-14,Consultoria Contábil,17159.54,Atrasado,José Pereira,9,7747.65,54.85
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2023-02-18,Auditoria,21438.82,Atrasado,Roberto Alves,8,7319.18,65.86
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-11-18,Regularização Fiscal,8555.17,Pago,Pedro Martins,10,2940.2,65.63
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2024-08-05,Demonstrativo de Resultado,9039.96,Atrasado,Carlos Oliveira,10,4770.91,47.22
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2024-12-02,Declaração IR,2319.45,Atrasado,Maria Santos,9,987.6,57.42
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2025-03-31,Consultoria Contábil,1293.52,Atrasado,Ana Silva,8,659.81,48.99
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2024-12-02,Abertura de Empresa,16578.73,Pendente,Pedro Martins,10,8830.16,46.74
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-02-07,Folha de Pagamento,10491.88,Atrasado,José Pereira,8,3439.72,67.22
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-08-20,Balanço Patrimonial,5475.67,Atrasado,Pedro Martins,9,2836.14,48.2
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2023-12-30,Escrituração Contábil,2725.34,Atrasado,Roberto Alves,7,1184.49,56.54
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2024-09-24,Folha de Pagamento,1036.08,Pendente,Maria Santos,8,419.72,59.49
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2025-04-21,Imposto de Renda PJ,915.46,Atrasado,Pedro Martins,9,399.41,56.37
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2025-04-10,Regularização Fiscal,3192.71,Atrasado,Ana Silva,9,1606.08,49.7
+Cliente_52,Oficina Mecânica Rápida,Alimentação,Pequeno,2021-07-24,2024-11-09,Balanço Patrimonial,1661.55,Atrasado,Pedro Martins,10,863.2,48.05
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2024-09-13,Declaração IR,13456.52,Pendente,Carlos Oliveira,7,6840.5,49.17
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2023-11-15,Folha de Pagamento,4215.09,Atrasado,Ana Silva,7,1731.88,58.91
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2023-01-26,Balanço Patrimonial,3889.41,Pendente,Juliana Costa,8,2081.37,46.49
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2020-05-09,Consultoria Tributária,23691.03,Atrasado,Carlos Oliveira,7,10075.14,57.47
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2022-05-03,Análise Financeira,2011.84,Atrasado,Maria Santos,8,908.2,54.86
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2023-09-28,Imposto de Renda PJ,6824.73,Atrasado,Ana Silva,8,3890.6,42.99
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-11-18,Folha de Pagamento,1594.92,Pendente,Carlos Oliveira,9,746.92,53.17
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2024-01-04,Balanço Patrimonial,14241.67,Pago,Maria Santos,8,7479.26,47.48
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2023-09-27,Contabilidade Fiscal,3433.75,Pendente,Roberto Alves,10,1117.32,67.46
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2023-10-24,Auditoria,1995.12,Atrasado,José Pereira,9,827.18,58.54
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2021-01-11,Contabilidade Fiscal,7193.02,Pendente,Ana Silva,8,2285.04,68.23
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2021-02-18,Folha de Pagamento,2149.7,Atrasado,José Pereira,7,678.37,68.44
+Cliente_31,Clínica Odontológica Sorriso,Construção,Pequeno,2021-06-23,2024-10-27,Análise Financeira,1490.48,Atrasado,Maria Santos,10,476.41,68.04
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2024-07-07,Imposto de Renda PJ,11766.4,Atrasado,Ana Silva,8,4605.18,60.86
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2024-05-02,Contabilidade Fiscal,3250.86,Atrasado,Carlos Oliveira,8,1499.49,53.87
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2025-04-11,Balanço Patrimonial,2775.43,Pendente,Pedro Martins,7,882.73,68.19
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2022-07-28,Análise Financeira,1498.16,Pendente,Carlos Oliveira,9,469.89,68.64
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-05-12,Análise Financeira,20442.32,Pendente,Carlos Oliveira,10,7425.78,63.67
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-07-29,Imposto de Renda PJ,5694.9,Atrasado,Roberto Alves,9,2292.13,59.75
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2024-07-30,Auditoria,7339.3,Pendente,Ana Silva,8,3111.49,57.61
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2024-01-28,Planejamento Tributário,3216.15,Atrasado,José Pereira,10,1613.46,49.83
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2024-04-03,Consultoria Contábil,2234.12,Pago,Pedro Martins,7,980.35,56.12
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2024-01-05,Folha de Pagamento,6775.75,Atrasado,Carlos Oliveira,9,3676.01,45.75
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2021-12-14,Planejamento Tributário,19633.75,Atrasado,Fernanda Lima,10,6543.61,66.67
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2024-04-26,Balanço Patrimonial,1634.52,Atrasado,Carlos Oliveira,7,778.77,52.35
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2021-10-16,Declaração IR,1072.25,Atrasado,Ana Silva,7,640.76,40.24
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2023-12-30,Imposto de Renda PJ,1929.14,Pago,Roberto Alves,7,1072.91,44.38
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2022-07-17,Consultoria Contábil,4204.87,Pendente,José Pereira,8,1320.71,68.59
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2023-01-25,Planejamento Tributário,17065.04,Pendente,Carlos Oliveira,8,10126.88,40.66
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2025-05-28,Contabilidade Fiscal,2364.13,Pago,Pedro Martins,7,1049.65,55.6
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2025-01-12,Demonstrativo de Resultado,7607.09,Atrasado,Ana Silva,7,4157.2,45.35
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2024-06-05,Contabilidade Fiscal,1705.33,Atrasado,Fernanda Lima,7,980.59,42.5
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-01-21,Consultoria Contábil,8939.86,Atrasado,Carlos Oliveira,10,2858.4,68.03
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2021-09-14,Balanço Patrimonial,11996.88,Pendente,Fernanda Lima,7,5230.92,56.4
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2024-10-18,Regularização Fiscal,15522.65,Atrasado,Roberto Alves,9,7394.12,52.37
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2023-02-12,Folha de Pagamento,1654.13,Atrasado,Roberto Alves,9,672.6,59.34
+Cliente_62,Loja Fashion,Transporte,Pequeno,2021-01-15,2025-02-07,Análise Financeira,1702.98,Atrasado,Carlos Oliveira,9,669.88,60.66
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2022-10-09,Declaração IR,1581.06,Atrasado,Carlos Oliveira,8,501.5,68.28
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2025-04-02,Consultoria Contábil,4675.0,Atrasado,Roberto Alves,8,2339.17,49.96
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2025-03-14,Análise Financeira,2380.88,Atrasado,Roberto Alves,7,1038.76,56.37
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2024-05-03,Abertura de Empresa,17778.52,Atrasado,Ana Silva,9,9639.18,45.78
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2021-06-14,Regularização Fiscal,13417.4,Atrasado,Carlos Oliveira,9,5797.96,56.79
+Cliente_81,Seguradora Proteção,Comércio Varejista,Médio,2023-04-07,2024-11-26,Demonstrativo de Resultado,5184.55,Atrasado,Maria Santos,8,2083.91,59.81
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-04-06,Declaração IR,2791.89,Atrasado,Pedro Martins,7,1120.99,59.85
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2022-01-24,Planejamento Tributário,24003.43,Pago,Juliana Costa,10,13526.33,43.65
+Cliente_9,Borracharia Pneus,Serviços,Médio,2021-12-05,2022-08-04,Declaração IR,2889.55,Atrasado,Fernanda Lima,10,1713.78,40.69
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2021-12-06,Demonstrativo de Resultado,12049.84,Atrasado,José Pereira,9,6770.27,43.81
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2025-01-13,Planejamento Tributário,19045.76,Atrasado,José Pereira,9,8562.52,55.04
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2021-05-05,Auditoria,21458.5,Atrasado,Roberto Alves,7,7771.41,63.78
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2024-10-13,Consultoria Contábil,1245.96,Pendente,Maria Santos,9,579.58,53.48
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2024-02-04,Consultoria Tributária,19375.73,Atrasado,José Pereira,10,8326.75,57.02
+Cliente_48,Imobiliária Casa Nova,Financeiro,Médio,2021-12-26,2024-10-09,Auditoria,3953.86,Pendente,Juliana Costa,9,2185.62,44.72
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2024-10-28,Imposto de Renda PJ,9411.19,Atrasado,José Pereira,9,3378.56,64.1
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2021-10-19,Consultoria Tributária,2731.9,Atrasado,Ana Silva,9,826.56,69.74
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-08-27,Consultoria Contábil,23083.28,Atrasado,José Pereira,8,12918.32,44.04
+Cliente_30,Escola Idiomas,Educação,Pequeno,2021-08-24,2022-12-01,Escrituração Contábil,1544.92,Pendente,Juliana Costa,10,621.36,59.78
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2023-05-26,Consultoria Contábil,16925.42,Atrasado,Roberto Alves,9,5783.16,65.83
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2022-08-17,Escrituração Contábil,448.23,Atrasado,Pedro Martins,10,237.05,47.11
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2024-04-04,Auditoria,2561.61,Pago,Roberto Alves,9,1205.13,52.95
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2025-04-11,Análise Financeira,2817.66,Atrasado,Maria Santos,7,1123.27,60.13
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2024-11-27,Consultoria Tributária,17178.61,Atrasado,Pedro Martins,8,6179.14,64.03
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2023-06-29,Abertura de Empresa,7792.96,Atrasado,Carlos Oliveira,10,3252.25,58.27
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2021-11-24,Balanço Patrimonial,5942.06,Pendente,Fernanda Lima,9,2553.07,57.03
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2024-02-12,Planejamento Tributário,6657.55,Atrasado,Fernanda Lima,8,2012.13,69.78
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2023-10-13,Contabilidade Fiscal,1677.44,Atrasado,Ana Silva,10,793.16,52.72
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2023-02-14,Consultoria Tributária,16286.58,Atrasado,Carlos Oliveira,8,6913.91,57.55
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-11-16,Escrituração Contábil,10845.91,Atrasado,Fernanda Lima,7,4033.69,62.81
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2022-09-22,Imposto de Renda PJ,5853.68,Pago,Pedro Martins,10,2478.35,57.66
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2025-04-10,Contabilidade Fiscal,2099.22,Atrasado,Roberto Alves,9,760.36,63.78
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2024-02-24,Folha de Pagamento,9760.25,Pendente,Ana Silva,10,3038.68,68.87
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-05-06,Escrituração Contábil,1682.99,Atrasado,Ana Silva,8,865.18,48.59
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2023-05-03,Planejamento Tributário,7768.28,Atrasado,Fernanda Lima,10,2723.06,64.95
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2025-04-14,Folha de Pagamento,1144.13,Atrasado,Roberto Alves,8,494.97,56.74
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2024-11-01,Imposto de Renda PJ,5784.3,Atrasado,Fernanda Lima,7,3075.64,46.83
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2021-10-30,Abertura de Empresa,8731.85,Pago,Fernanda Lima,9,4768.97,45.38
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-07-01,Abertura de Empresa,3002.6,Atrasado,Ana Silva,7,1635.48,45.53
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2023-04-09,Imposto de Renda PJ,3992.06,Atrasado,José Pereira,9,1584.89,60.3
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2022-10-29,Imposto de Renda PJ,12257.8,Atrasado,Carlos Oliveira,9,3838.92,68.68
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2024-02-12,Consultoria Tributária,6565.4,Pendente,Fernanda Lima,8,2465.85,62.44
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2023-10-23,Auditoria,8950.49,Atrasado,José Pereira,9,5311.28,40.66
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2023-09-16,Contabilidade Fiscal,979.07,Atrasado,Roberto Alves,7,362.04,63.02
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2023-03-04,Consultoria Tributária,1408.87,Atrasado,Juliana Costa,8,486.77,65.45
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2023-12-15,Folha de Pagamento,11774.38,Atrasado,Juliana Costa,9,5805.72,50.69
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2023-11-01,Balanço Patrimonial,2303.91,Pendente,Roberto Alves,9,858.61,62.73
+Cliente_70,Serralheria Metal,Saúde,Pequeno,2021-12-15,2022-04-04,Imposto de Renda PJ,2621.51,Atrasado,Carlos Oliveira,8,1134.35,56.73
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2021-11-26,Consultoria Contábil,2038.85,Pago,José Pereira,8,667.78,67.25
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2024-07-22,Consultoria Contábil,14888.44,Atrasado,Pedro Martins,8,5560.5,62.65
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-11-04,Abertura de Empresa,20701.1,Atrasado,Fernanda Lima,9,8683.56,58.05
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2023-06-10,Planejamento Tributário,6772.95,Pago,Fernanda Lima,10,2072.14,69.41
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-09-12,Consultoria Contábil,12092.77,Atrasado,Carlos Oliveira,10,5309.88,56.09
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2022-10-22,Regularização Fiscal,6103.8,Pendente,Ana Silva,7,1854.64,69.61
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2024-09-25,Planejamento Tributário,6469.05,Atrasado,Roberto Alves,7,2734.06,57.74
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2023-12-28,Regularização Fiscal,23432.95,Pendente,Juliana Costa,9,10612.37,54.71
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2024-11-16,Escrituração Contábil,7846.95,Atrasado,Juliana Costa,9,3839.4,51.07
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2021-07-19,Escrituração Contábil,10832.91,Atrasado,Fernanda Lima,8,3289.97,69.63
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2021-03-20,Imposto de Renda PJ,18486.16,Pendente,Fernanda Lima,10,6465.48,65.03
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-06-06,Escrituração Contábil,4309.3,Atrasado,Pedro Martins,7,1434.06,66.72
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2024-12-14,Demonstrativo de Resultado,1214.42,Atrasado,Maria Santos,8,661.76,45.51
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2022-01-31,Contabilidade Fiscal,1590.32,Atrasado,José Pereira,8,812.99,48.88
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2024-11-18,Declaração IR,1418.21,Pendente,Maria Santos,8,535.81,62.22
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2024-04-27,Imposto de Renda PJ,2984.77,Atrasado,Carlos Oliveira,7,1201.8,59.74
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2022-06-30,Planejamento Tributário,9227.73,Pago,Roberto Alves,7,3036.41,67.09
+Cliente_67,Depósito Materiais,Alimentação,Pequeno,2023-10-07,2023-10-14,Regularização Fiscal,2593.96,Atrasado,Fernanda Lima,10,1040.09,59.9
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2024-01-25,Auditoria,3366.65,Atrasado,Ana Silva,9,1824.32,45.81
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2024-02-07,Consultoria Contábil,2153.54,Pendente,José Pereira,9,1260.51,41.47
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2025-03-13,Abertura de Empresa,1571.14,Atrasado,José Pereira,9,479.18,69.5
+Cliente_47,Sorveteria Gelada,Construção,Médio,2021-01-24,2021-04-27,Demonstrativo de Resultado,4423.44,Pendente,Carlos Oliveira,9,1894.89,57.16
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2024-07-08,Consultoria Contábil,13557.38,Pendente,Maria Santos,7,4587.25,66.16
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2022-01-29,Consultoria Contábil,19252.72,Atrasado,Ana Silva,8,7181.4,62.7
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2025-01-08,Imposto de Renda PJ,2937.63,Pago,Fernanda Lima,9,1676.78,42.92
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2022-04-09,Abertura de Empresa,22515.44,Pendente,Fernanda Lima,10,7365.53,67.29
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2024-06-11,Consultoria Contábil,1144.42,Pendente,Roberto Alves,10,567.83,50.38
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2024-08-26,Demonstrativo de Resultado,2817.56,Atrasado,Ana Silva,8,1474.67,47.66
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2024-05-21,Auditoria,6158.86,Atrasado,Fernanda Lima,8,3412.84,44.59
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-08-14,Demonstrativo de Resultado,4459.24,Atrasado,Pedro Martins,10,1350.06,69.72
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2022-12-28,Declaração IR,3593.42,Atrasado,Ana Silva,7,1723.63,52.03
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2025-03-04,Escrituração Contábil,4471.98,Atrasado,Roberto Alves,10,1420.5,68.24
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2021-04-02,Consultoria Contábil,2232.81,Pendente,Ana Silva,8,1243.75,44.3
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2024-08-18,Consultoria Tributária,26657.28,Atrasado,Roberto Alves,10,15916.91,40.29
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-01-04,Regularização Fiscal,1120.57,Atrasado,José Pereira,7,380.18,66.07
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2025-02-17,Análise Financeira,2765.28,Atrasado,José Pereira,10,1406.94,49.12
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2023-05-13,Abertura de Empresa,5742.58,Atrasado,Juliana Costa,8,2371.49,58.7
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2024-08-16,Consultoria Contábil,3236.49,Pago,Pedro Martins,7,1922.74,40.59
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2024-02-01,Análise Financeira,3713.56,Atrasado,Juliana Costa,9,1880.53,49.36
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-12-22,Escrituração Contábil,12027.53,Pendente,Fernanda Lima,10,4601.31,61.74
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2024-05-20,Auditoria,4832.68,Pago,Juliana Costa,8,1483.19,69.31
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2023-10-23,Planejamento Tributário,1619.77,Atrasado,Maria Santos,10,630.91,61.05
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2021-06-21,Auditoria,1115.47,Atrasado,Pedro Martins,10,356.04,68.08
+Cliente_75,Açougue Carnes Nobres,Saúde,Grande,2021-03-07,2024-03-14,Escrituração Contábil,10621.52,Atrasado,Roberto Alves,8,3203.42,69.84
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2025-05-11,Auditoria,13167.54,Pago,Pedro Martins,7,4284.49,67.46
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2023-03-28,Consultoria Tributária,18094.41,Atrasado,Maria Santos,9,9006.44,50.23
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2023-05-02,Análise Financeira,5169.29,Atrasado,Fernanda Lima,7,2578.36,50.12
+Cliente_6,Papelaria Escolar,Construção,Grande,2021-07-23,2022-11-20,Folha de Pagamento,11636.34,Atrasado,Ana Silva,9,4459.26,61.68
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2024-10-19,Contabilidade Fiscal,10723.48,Pendente,Roberto Alves,10,6241.71,41.79
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2024-04-15,Abertura de Empresa,944.52,Atrasado,Ana Silva,8,402.28,57.41
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2022-02-21,Demonstrativo de Resultado,2092.39,Atrasado,José Pereira,10,669.12,68.02
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2022-03-24,Auditoria,3949.98,Atrasado,Roberto Alves,8,1633.67,58.64
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2023-03-26,Declaração IR,5892.5,Atrasado,Roberto Alves,9,2742.74,53.45
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2022-06-04,Folha de Pagamento,586.17,Pendente,Maria Santos,10,259.71,55.69
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2022-05-14,Folha de Pagamento,1136.52,Atrasado,Pedro Martins,9,582.18,48.78
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2025-01-31,Regularização Fiscal,26774.42,Atrasado,José Pereira,10,12213.91,54.38
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2023-07-10,Consultoria Tributária,15286.69,Atrasado,Roberto Alves,7,7933.58,48.1
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2021-04-25,Análise Financeira,16842.44,Pendente,Ana Silva,10,8473.6,49.69
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2023-03-14,Planejamento Tributário,22503.64,Atrasado,Roberto Alves,8,12900.57,42.67
+Cliente_96,Laboratório Análises,Agronegócio,Pequeno,2021-06-05,2021-06-19,Escrituração Contábil,1124.91,Pendente,Ana Silva,7,542.45,51.78
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2024-07-31,Demonstrativo de Resultado,3142.48,Pendente,Fernanda Lima,10,1409.88,55.13
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2022-11-22,Contabilidade Fiscal,4320.42,Atrasado,Fernanda Lima,10,1676.6,61.19
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2022-12-21,Escrituração Contábil,3108.47,Pago,Fernanda Lima,7,1804.85,41.94
+Cliente_80,Cartório Documentos,Comércio Varejista,Pequeno,2020-06-03,2025-03-06,Planejamento Tributário,1068.94,Atrasado,Maria Santos,8,449.62,57.94
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2021-02-20,Regularização Fiscal,16049.17,Atrasado,Carlos Oliveira,8,8519.45,46.92
+Cliente_33,Salão Beleza Total,Educação,Pequeno,2023-01-09,2023-08-28,Planejamento Tributário,1944.77,Atrasado,Ana Silva,10,966.32,50.31
+Cliente_57,TechSolutions Ltda,Alimentação,Médio,2022-07-20,2023-06-16,Declaração IR,4255.87,Atrasado,Fernanda Lima,7,1447.44,65.99
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2024-04-02,Auditoria,13921.95,Atrasado,Carlos Oliveira,10,6219.22,55.33
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2025-02-26,Escrituração Contábil,609.58,Pendente,Ana Silva,10,206.91,66.06
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2022-08-29,Declaração IR,3978.67,Atrasado,Roberto Alves,7,1712.02,56.97
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2023-09-30,Planejamento Tributário,6531.36,Atrasado,Juliana Costa,7,3652.66,44.08
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2021-07-08,Imposto de Renda PJ,2573.5,Atrasado,José Pereira,8,917.71,64.34
+Cliente_76,Buffet Festas,Financeiro,Grande,2021-06-24,2025-01-02,Imposto de Renda PJ,12047.28,Atrasado,Pedro Martins,7,5842.21,51.51
+Cliente_12,Construtora Edificações,Tecnologia,Grande,2020-05-22,2025-03-27,Folha de Pagamento,10523.23,Atrasado,Ana Silva,7,4766.59,54.7
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2023-12-19,Consultoria Tributária,1247.81,Pendente,José Pereira,8,389.65,68.77
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-09-16,Abertura de Empresa,4201.84,Atrasado,Fernanda Lima,9,1644.21,60.87
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2024-03-13,Folha de Pagamento,3352.93,Pendente,José Pereira,9,1245.53,62.85
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2023-04-25,Análise Financeira,1805.25,Atrasado,Carlos Oliveira,8,646.06,64.21
+Cliente_58,Doceria Gourmet,Entretenimento,Grande,2023-02-12,2023-05-24,Contabilidade Fiscal,7973.41,Atrasado,Pedro Martins,8,2496.82,68.69
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2023-12-09,Balanço Patrimonial,17504.82,Atrasado,Carlos Oliveira,9,7606.63,56.55
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2022-11-24,Regularização Fiscal,24351.48,Atrasado,Roberto Alves,8,9421.51,61.31
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2023-11-21,Demonstrativo de Resultado,2824.82,Atrasado,Carlos Oliveira,7,987.71,65.03
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-05-04,Regularização Fiscal,2150.47,Atrasado,José Pereira,7,1212.32,43.63
+Cliente_66,Depósito Materiais,Tecnologia,Grande,2021-10-05,2024-04-24,Balanço Patrimonial,9860.15,Atrasado,José Pereira,8,3620.44,63.28
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2021-09-29,Consultoria Tributária,1091.47,Pendente,José Pereira,8,651.46,40.31
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2023-05-09,Contabilidade Fiscal,10762.29,Pendente,Juliana Costa,9,5560.06,48.34
+Cliente_53,Sorveteria Gelada,Serviços,Médio,2023-02-01,2024-10-19,Consultoria Tributária,4162.49,Pendente,Carlos Oliveira,8,1568.41,62.32
+Cliente_3,Empresa Telemarketing,Alimentação,Pequeno,2020-03-02,2023-03-07,Imposto de Renda PJ,2538.52,Atrasado,Carlos Oliveira,9,1424.13,43.9
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2025-02-11,Balanço Patrimonial,989.71,Pendente,Roberto Alves,10,343.12,65.33
+Cliente_30,Escola Idiomas,Educação,Pequeno,2021-08-24,2024-01-29,Auditoria,1433.27,Atrasado,Juliana Costa,10,835.61,41.7
+Cliente_24,SPA Relaxamento,Alimentação,Grande,2022-03-28,2023-10-26,Folha de Pagamento,10934.96,Atrasado,Roberto Alves,10,4085.04,62.64
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2024-12-13,Contabilidade Fiscal,1431.55,Atrasado,José Pereira,7,784.44,45.2
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2023-11-05,Declaração IR,1073.69,Pendente,Roberto Alves,7,496.81,53.73
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2022-04-30,Abertura de Empresa,1130.35,Atrasado,Carlos Oliveira,8,358.05,68.32
+Cliente_89,Incorporadora Empreendimentos,Tecnologia,Pequeno,2022-07-31,2024-01-29,Imposto de Renda PJ,1858.03,Pendente,Roberto Alves,10,636.47,65.74
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2020-10-10,Abertura de Empresa,16380.36,Atrasado,Fernanda Lima,7,7330.97,55.25
+Cliente_15,Clínica Odontológica Sorriso,Educação,Médio,2021-03-05,2022-06-07,Contabilidade Fiscal,2750.82,Pendente,Fernanda Lima,7,1564.33,43.13
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2022-09-19,Declaração IR,1351.03,Atrasado,Maria Santos,9,546.51,59.55
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2024-01-23,Planejamento Tributário,9502.74,Atrasado,Roberto Alves,8,5068.15,46.67
+Cliente_19,Loja Informática,Educação,Pequeno,2021-04-14,2023-01-29,Declaração IR,1297.46,Atrasado,Ana Silva,9,445.55,65.66
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2020-10-31,Declaração IR,3655.66,Pago,José Pereira,9,1248.28,65.85
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2023-10-29,Regularização Fiscal,5973.77,Atrasado,Juliana Costa,10,2736.49,54.19
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2023-07-09,Escrituração Contábil,6773.34,Atrasado,Roberto Alves,8,3903.28,42.37
+Cliente_8,Salão Beleza Total,Tecnologia,Médio,2020-07-28,2022-07-13,Auditoria,8822.85,Pendente,Carlos Oliveira,10,3288.71,62.73
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2020-12-14,Escrituração Contábil,10570.11,Pendente,Fernanda Lima,9,3342.53,68.38
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2022-12-15,Planejamento Tributário,8525.58,Atrasado,Roberto Alves,10,2940.6,65.51
+Cliente_24,SPA Relaxamento,Alimentação,Grande,2022-03-28,2024-11-14,Escrituração Contábil,12961.14,Atrasado,Roberto Alves,7,5003.4,61.4
+Cliente_20,Joalheria Brilhante,Alimentação,Médio,2020-05-15,2020-09-14,Imposto de Renda PJ,5372.23,Atrasado,José Pereira,10,2504.78,53.38
+Cliente_34,Frigorífico Carnes,Educação,Médio,2020-02-09,2025-04-05,Análise Financeira,6151.53,Pago,Carlos Oliveira,10,3650.18,40.66
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2025-01-29,Abertura de Empresa,1757.39,Pago,Pedro Martins,7,957.72,45.5
+Cliente_60,SPA Relaxamento,Entretenimento,Grande,2020-05-04,2023-01-06,Auditoria,16041.01,Atrasado,Roberto Alves,9,5333.96,66.75
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2024-01-09,Análise Financeira,4485.82,Atrasado,Carlos Oliveira,7,2363.83,47.3
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2024-04-16,Balanço Patrimonial,5707.35,Atrasado,Roberto Alves,10,1790.42,68.63
+Cliente_41,Centro Automotivo,Transporte,Médio,2020-09-04,2021-03-13,Consultoria Tributária,5413.33,Pendente,José Pereira,9,3205.53,40.78
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2023-11-30,Contabilidade Fiscal,997.41,Atrasado,José Pereira,10,441.94,55.69
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2024-06-15,Declaração IR,15270.35,Pendente,Juliana Costa,8,8103.18,46.94
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2024-01-02,Balanço Patrimonial,5241.33,Atrasado,Pedro Martins,9,2138.96,59.19
+Cliente_56,Lavanderia Express,Alimentação,Pequeno,2020-12-03,2021-02-22,Escrituração Contábil,1528.15,Atrasado,Juliana Costa,10,503.1,67.08
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2021-05-16,Demonstrativo de Resultado,17067.96,Atrasado,Carlos Oliveira,9,5989.41,64.91
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2023-05-30,Contabilidade Fiscal,2891.72,Atrasado,Juliana Costa,10,1716.37,40.65
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2024-12-17,Imposto de Renda PJ,2634.54,Atrasado,Roberto Alves,10,1467.7,44.29
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-11-13,Planejamento Tributário,1944.78,Atrasado,Ana Silva,9,1095.34,43.68
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2022-05-20,Análise Financeira,3271.51,Atrasado,Ana Silva,7,1266.72,61.28
+Cliente_21,Transportadora Entregas,Entretenimento,Médio,2021-03-11,2024-05-21,Regularização Fiscal,4691.07,Atrasado,Pedro Martins,10,1560.89,66.73
+Cliente_24,SPA Relaxamento,Alimentação,Grande,2022-03-28,2022-11-04,Regularização Fiscal,13573.42,Pago,Roberto Alves,10,4937.88,63.62
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2024-03-14,Contabilidade Fiscal,6518.02,Atrasado,Carlos Oliveira,7,3886.98,40.37
+Cliente_100,Serralheria Metal,Saúde,Grande,2022-04-16,2024-06-02,Folha de Pagamento,7401.31,Pendente,Roberto Alves,10,2819.56,61.9
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2022-09-18,Contabilidade Fiscal,765.88,Atrasado,Roberto Alves,8,383.62,49.91
+Cliente_34,Frigorífico Carnes,Educação,Médio,2020-02-09,2021-02-19,Consultoria Contábil,7678.55,Atrasado,Carlos Oliveira,10,3413.02,55.55
+Cliente_69,Fábrica Laticínios,Agronegócio,Pequeno,2020-05-30,2024-04-09,Demonstrativo de Resultado,846.59,Atrasado,José Pereira,8,273.74,67.67
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2024-03-31,Análise Financeira,1200.85,Pendente,Roberto Alves,7,414.48,65.48
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2022-01-17,Planejamento Tributário,4364.29,Atrasado,Ana Silva,10,2544.37,41.7
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2024-06-21,Planejamento Tributário,2907.08,Atrasado,Pedro Martins,8,1396.22,51.97
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2023-12-10,Abertura de Empresa,6656.76,Atrasado,Fernanda Lima,9,2999.71,54.94
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2024-04-27,Planejamento Tributário,16786.08,Atrasado,Maria Santos,9,5606.79,66.6
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-06-06,Regularização Fiscal,11120.7,Atrasado,Fernanda Lima,10,5451.72,50.98
+Cliente_90,Pizzaria Delícia,Tecnologia,Pequeno,2020-02-18,2023-08-11,Consultoria Contábil,893.38,Pendente,José Pereira,7,401.06,55.11
+Cliente_97,Cooperativa Agronegócio,Alimentação,Pequeno,2022-11-30,2024-08-29,Balanço Patrimonial,765.49,Atrasado,José Pereira,8,408.06,46.69
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2023-01-08,Contabilidade Fiscal,3727.52,Pago,Pedro Martins,10,2133.63,42.76
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2024-12-06,Folha de Pagamento,1456.54,Atrasado,José Pereira,10,731.17,49.8
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2023-11-13,Folha de Pagamento,445.15,Atrasado,José Pereira,9,156.3,64.89
+Cliente_74,Oficina Mecânica Rápida,Saúde,Pequeno,2020-08-07,2023-01-04,Abertura de Empresa,1957.73,Pendente,Maria Santos,10,663.01,66.13
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2023-12-01,Escrituração Contábil,675.95,Pendente,Roberto Alves,7,330.83,51.06
+Cliente_51,Sorveteria Gelada,Tecnologia,Pequeno,2023-01-03,2025-05-15,Demonstrativo de Resultado,1727.32,Atrasado,Pedro Martins,10,524.18,69.65
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2024-01-10,Declaração IR,15610.99,Pendente,Fernanda Lima,8,9288.92,40.5
+Cliente_82,Frutaria Natural,Indústria,Pequeno,2021-09-23,2025-04-08,Demonstrativo de Resultado,1094.56,Atrasado,Roberto Alves,10,581.34,46.89
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2021-08-12,Consultoria Tributária,1232.98,Atrasado,Maria Santos,7,409.5,66.79
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2024-06-07,Declaração IR,818.9,Atrasado,Pedro Martins,7,347.31,57.59
+Cliente_63,Frigorífico Carnes,Serviços,Grande,2021-04-26,2024-10-28,Contabilidade Fiscal,14268.33,Atrasado,Juliana Costa,9,4323.9,69.7
+Cliente_23,Oficina Mecânica Rápida,Tecnologia,Grande,2023-02-23,2024-12-29,Análise Financeira,9564.85,Pendente,Fernanda Lima,7,3323.94,65.25
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2023-07-31,Contabilidade Fiscal,5242.67,Pendente,Carlos Oliveira,7,2986.08,43.04
+Cliente_4,Lavanderia Express,Tecnologia,Grande,2023-05-17,2024-04-16,Declaração IR,16475.05,Pendente,Ana Silva,9,8442.23,48.76
+Cliente_84,Assessoria Contábil,Serviços,Médio,2023-02-20,2023-12-18,Planejamento Tributário,6493.47,Atrasado,Juliana Costa,9,3821.81,41.14
+Cliente_14,Imobiliária Casa Nova,Alimentação,Médio,2022-07-17,2024-04-15,Declaração IR,6280.23,Pendente,Roberto Alves,9,3057.68,51.31
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2024-01-07,Regularização Fiscal,1446.1,Pendente,Maria Santos,9,688.43,52.39
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2024-08-25,Consultoria Contábil,7128.7,Pendente,Juliana Costa,10,3830.03,46.27
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2023-11-21,Contabilidade Fiscal,792.24,Atrasado,Pedro Martins,9,288.48,63.59
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-08-14,Abertura de Empresa,4760.98,Atrasado,Carlos Oliveira,7,2248.06,52.78
+Cliente_83,Padaria Delícia,Educação,Pequeno,2023-10-28,2025-01-01,Imposto de Renda PJ,2149.42,Atrasado,José Pereira,9,916.45,57.36
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2022-12-09,Declaração IR,7990.95,Pendente,Maria Santos,7,4582.75,42.65
+Cliente_37,Funerária Paz,Indústria,Pequeno,2023-09-13,2024-01-25,Consultoria Contábil,2941.52,Atrasado,Pedro Martins,10,966.4,67.15
+Cliente_54,Restaurante Sabor,Financeiro,Grande,2020-01-31,2024-02-20,Consultoria Tributária,16389.17,Atrasado,Carlos Oliveira,10,6384.12,61.05
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2023-12-26,Consultoria Contábil,7718.41,Atrasado,Ana Silva,7,2636.77,65.84
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2024-12-12,Escrituração Contábil,2519.19,Pendente,José Pereira,7,1461.72,41.98
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2023-05-12,Demonstrativo de Resultado,2246.97,Pendente,Fernanda Lima,10,856.04,61.9
+Cliente_22,Agropecuária Rural,Financeiro,Médio,2020-10-19,2021-07-28,Análise Financeira,3998.81,Pendente,Fernanda Lima,10,1963.7,50.89
+Cliente_86,Hotel Conforto,Alimentação,Pequeno,2021-01-02,2021-09-09,Balanço Patrimonial,1838.74,Pendente,Roberto Alves,8,602.26,67.25
+Cliente_99,Fábrica Laticínios,Educação,Grande,2020-09-12,2022-05-11,Escrituração Contábil,12749.96,Atrasado,Fernanda Lima,7,4112.41,67.75
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2023-05-31,Abertura de Empresa,730.88,Atrasado,Ana Silva,9,386.01,47.19
+Cliente_40,Associação Comercial,Saúde,Médio,2023-10-07,2025-01-13,Imposto de Renda PJ,4642.29,Pendente,Roberto Alves,8,2479.01,46.6
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2022-12-16,Consultoria Tributária,26530.52,Atrasado,Carlos Oliveira,7,13888.93,47.65
+Cliente_31,Clínica Odontológica Sorriso,Construção,Pequeno,2021-06-23,2021-07-26,Planejamento Tributário,1468.99,Pendente,Maria Santos,7,596.89,59.37
+Cliente_28,Borracharia Pneus,Agronegócio,Médio,2022-12-19,2023-05-22,Regularização Fiscal,5717.97,Atrasado,Fernanda Lima,10,2048.06,64.18
+Cliente_25,Papelaria Escolar,Indústria,Grande,2022-10-07,2023-11-23,Declaração IR,11764.97,Atrasado,Carlos Oliveira,7,4304.5,63.41
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2022-02-08,Análise Financeira,3323.71,Pendente,Fernanda Lima,10,1388.86,58.21
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2024-10-03,Consultoria Contábil,11190.5,Atrasado,Fernanda Lima,9,5820.9,47.98
+Cliente_13,Pousada Descanso,Tecnologia,Médio,2020-06-12,2021-06-26,Balanço Patrimonial,5380.68,Atrasado,José Pereira,7,1883.2,65.0
+Cliente_43,Empresa Telemarketing,Tecnologia,Pequeno,2020-05-25,2022-12-13,Declaração IR,2108.55,Pago,Ana Silva,7,740.56,64.88
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2023-10-01,Análise Financeira,1767.94,Atrasado,Roberto Alves,7,831.25,52.98
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2025-04-19,Abertura de Empresa,3448.07,Pendente,Juliana Costa,10,1541.97,55.28
+Cliente_45,Dedetizadora Controle,Tecnologia,Médio,2023-10-02,2025-04-12,Consultoria Tributária,5294.82,Atrasado,Pedro Martins,10,1767.56,66.62
+Cliente_88,Clínica Odontológica Sorriso,Entretenimento,Pequeno,2022-02-22,2025-01-20,Escrituração Contábil,1240.23,Pago,Ana Silva,9,557.3,55.06
+Cliente_32,Serralheria Metal,Serviços,Grande,2021-09-03,2024-11-28,Escrituração Contábil,5834.59,Pago,José Pereira,10,2868.4,50.84
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2025-03-08,Imposto de Renda PJ,2320.31,Atrasado,Carlos Oliveira,9,1314.22,43.36
+Cliente_51,Sorveteria Gelada,Tecnologia,Pequeno,2023-01-03,2024-08-28,Regularização Fiscal,3312.28,Pendente,Pedro Martins,7,1424.41,57.0
+Cliente_59,Salão Beleza Total,Tecnologia,Médio,2021-03-21,2024-05-24,Demonstrativo de Resultado,3151.07,Atrasado,Ana Silva,8,1439.9,54.3
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2024-09-14,Balanço Patrimonial,4011.11,Atrasado,Juliana Costa,9,2196.65,45.24
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2020-09-11,Planejamento Tributário,19843.16,Atrasado,Maria Santos,9,10627.58,46.44
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2025-04-04,Declaração IR,5199.05,Pendente,Roberto Alves,9,1901.07,63.43
+Cliente_61,Loja Fashion,Comércio Varejista,Grande,2022-09-03,2025-04-15,Auditoria,17367.18,Pago,Maria Santos,9,10004.51,42.39
+Cliente_77,Vidraçaria Cristal,Comércio Varejista,Pequeno,2023-07-23,2024-06-05,Declaração IR,1640.28,Atrasado,Juliana Costa,8,696.94,57.51
+Cliente_26,Restaurante Sabor,Serviços,Pequeno,2023-07-09,2024-05-12,Consultoria Tributária,1141.48,Pendente,Maria Santos,10,375.33,67.12
+Cliente_68,Assistência Técnica,Educação,Pequeno,2020-01-20,2022-07-13,Escrituração Contábil,867.38,Atrasado,Pedro Martins,10,380.25,56.16
+Cliente_72,Seguradora Proteção,Entretenimento,Médio,2023-06-06,2023-07-03,Demonstrativo de Resultado,4508.8,Atrasado,Ana Silva,8,2192.48,51.37
+Cliente_73,Assessoria Contábil,Transporte,Médio,2023-09-20,2024-07-16,Folha de Pagamento,2291.17,Pendente,Carlos Oliveira,10,1264.17,44.82
+Cliente_11,Borracharia Pneus,Serviços,Grande,2021-08-23,2021-12-13,Consultoria Tributária,13794.68,Atrasado,Roberto Alves,9,7715.29,44.07
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2024-07-20,Análise Financeira,8326.39,Pendente,Maria Santos,10,2838.64,65.91
+Cliente_87,Churrascaria Fogo,Financeiro,Grande,2021-05-23,2024-12-23,Consultoria Contábil,19883.71,Atrasado,Fernanda Lima,8,6649.36,66.56
+Cliente_1,Laboratório Farmacêutico,Serviços,Pequeno,2021-07-17,2022-05-26,Análise Financeira,2680.92,Atrasado,José Pereira,10,849.04,68.33
+Cliente_16,Companhia Saneamento,Financeiro,Grande,2020-05-26,2022-01-30,Regularização Fiscal,13362.66,Atrasado,Maria Santos,10,7453.61,44.22
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2023-03-02,Regularização Fiscal,1282.75,Atrasado,Juliana Costa,8,568.06,55.72
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2023-10-08,Imposto de Renda PJ,5035.72,Pendente,Juliana Costa,10,2140.53,57.49
+Cliente_55,Floricultura Jardim,Indústria,Médio,2022-09-21,2023-02-19,Folha de Pagamento,1918.72,Atrasado,Pedro Martins,10,600.16,68.72
+Cliente_46,Lavanderia Express,Transporte,Pequeno,2023-03-15,2023-08-04,Planejamento Tributário,3228.13,Pendente,Pedro Martins,8,1306.26,59.54
+Cliente_91,Café Expresso,Educação,Médio,2020-05-22,2023-05-02,Regularização Fiscal,4423.72,Atrasado,Fernanda Lima,8,1696.51,61.65
+Cliente_98,Ateliê Costura,Alimentação,Pequeno,2023-09-22,2024-07-28,Regularização Fiscal,1118.66,Atrasado,Roberto Alves,9,379.03,66.12
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2023-06-02,Análise Financeira,5602.88,Atrasado,José Pereira,7,2799.08,50.04
+Cliente_64,Gráfica Colorida,Agronegócio,Pequeno,2023-03-31,2025-02-23,Planejamento Tributário,2028.69,Atrasado,Ana Silva,8,1051.77,48.16
+Cliente_50,Loja Fashion,Alimentação,Grande,2021-11-25,2024-04-03,Contabilidade Fiscal,5642.82,Atrasado,Carlos Oliveira,7,3256.28,42.29
+Cliente_42,Papelaria Escolar,Serviços,Médio,2020-02-13,2020-09-20,Escrituração Contábil,2184.08,Atrasado,José Pereira,9,802.97,63.24
+Cliente_95,Joalheria Brilhante,Alimentação,Grande,2022-11-13,2023-04-27,Regularização Fiscal,11962.29,Atrasado,Carlos Oliveira,8,3707.97,69.0
+Cliente_18,Borracharia Pneus,Saúde,Grande,2023-11-10,2023-11-15,Auditoria,26420.43,Pendente,José Pereira,10,9433.18,64.3
+Cliente_27,Loja Informática,Alimentação,Grande,2020-05-10,2023-07-22,Consultoria Contábil,16974.14,Atrasado,Juliana Costa,10,8277.29,51.24
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2024-08-07,Contabilidade Fiscal,3550.83,Atrasado,Carlos Oliveira,7,1303.89,63.28
+Cliente_38,Corretora Investimentos,Indústria,Médio,2022-12-16,2025-04-12,Consultoria Tributária,5154.1,Atrasado,Juliana Costa,8,2865.47,44.4
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2025-04-12,Consultoria Tributária,1823.96,Pendente,Juliana Costa,9,904.63,50.4
+Cliente_5,Cartório Documentos,Tecnologia,Grande,2023-08-23,2024-08-03,Regularização Fiscal,19949.41,Pendente,Juliana Costa,7,7394.95,62.93
+Cliente_10,Padaria Delícia,Entretenimento,Médio,2023-01-03,2025-04-06,Análise Financeira,5963.85,Pago,Carlos Oliveira,10,2859.33,52.06
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2022-12-05,Balanço Patrimonial,1458.2,Atrasado,Juliana Costa,9,626.23,57.05
+Cliente_39,Lavanderia Express,Transporte,Grande,2023-11-13,2024-07-03,Folha de Pagamento,9631.46,Atrasado,José Pereira,7,4485.84,53.43
+Cliente_7,Clínica Odontológica Sorriso,Entretenimento,Médio,2021-11-27,2024-01-28,Demonstrativo de Resultado,2639.18,Atrasado,Fernanda Lima,9,1070.28,59.45
+Cliente_44,Ótica Visual,Serviços,Pequeno,2021-11-07,2024-04-19,Folha de Pagamento,673.88,Pendente,Carlos Oliveira,7,402.5,40.27
+Cliente_2,Papelaria Escolar,Indústria,Grande,2020-07-28,2024-08-10,Abertura de Empresa,8800.21,Atrasado,Carlos Oliveira,8,5275.08,40.06
+Cliente_17,Funerária Paz,Entretenimento,Pequeno,2020-11-30,2024-04-24,Regularização Fiscal,1967.24,Atrasado,Pedro Martins,9,1119.93,43.07
+Cliente_29,Corretora Investimentos,Comércio Varejista,Grande,2020-08-22,2023-02-16,Escrituração Contábil,10160.94,Pendente,Fernanda Lima,9,5175.29,49.07
+Cliente_65,Fábrica Laticínios,Serviços,Médio,2023-09-08,2023-12-23,Folha de Pagamento,2578.87,Pendente,Roberto Alves,8,1009.58,60.85
+Cliente_71,Sorveteria Gelada,Educação,Médio,2020-11-19,2022-01-24,Contabilidade Fiscal,4874.4,Atrasado,Pedro Martins,10,2855.98,41.41
+Cliente_3,Empresa Telemarketing,Alimentação,Pequeno,2020-03-02,2022-12-18,Consultoria Contábil,880.0,Atrasado,Carlos Oliveira,10,394.77,55.14
+Cliente_49,Churrascaria Fogo,Construção,Grande,2020-04-20,2022-06-16,Planejamento Tributário,12824.87,Atrasado,Carlos Oliveira,9,7453.39,41.88
+Cliente_78,Autoescola Direção,Comércio Varejista,Pequeno,2021-11-14,2023-10-03,Consultoria Contábil,2935.4,Pendente,Maria Santos,10,1643.01,44.03
+Cliente_94,Auto Peças Silva,Serviços,Grande,2022-06-08,2022-10-02,Demonstrativo de Resultado,13912.45,Pendente,Roberto Alves,10,5942.71,57.28
+Cliente_93,Construbem,Serviços,Médio,2020-12-31,2024-03-08,Demonstrativo de Resultado,2870.84,Pago,Fernanda Lima,8,1643.02,42.77
+Cliente_36,Transportadora Entregas,Serviços,Pequeno,2022-09-22,2024-12-18,Imposto de Renda PJ,2720.12,Atrasado,Carlos Oliveira,9,1111.19,59.15
+Cliente_85,Fábrica Laticínios,Entretenimento,Pequeno,2021-04-29,2022-09-24,Demonstrativo de Resultado,1564.65,Pendente,Maria Santos,8,677.72,56.69
+Cliente_3,Empresa Telemarketing,Alimentação,Pequeno,2020-03-02,2022-08-19,Folha de Pagamento,1025.82,Atrasado,Carlos Oliveira,7,392.82,61.71
+Cliente_79,Laboratório Farmacêutico,Saúde,Pequeno,2022-06-23,2024-03-27,Contabilidade Fiscal,1104.84,Atrasado,Juliana Costa,8,380.14,65.59
+Cliente_80,Cartório Documentos,Comércio Varejista,Pequeno,2020-06-03,2024-02-06,Folha de Pagamento,680.12,Atrasado,Maria Santos,8,216.44,68.18
+Cliente_92,Confeitaria Doces,Financeiro,Grande,2022-03-29,2023-09-10,Consultoria Tributária,24485.79,Atrasado,Roberto Alves,7,7914.88,67.68
